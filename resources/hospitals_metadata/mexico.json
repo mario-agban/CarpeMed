@@ -1,0 +1,90 @@
+{
+  "HospitalAngeles": {
+    "hospital_short_name": "angeles",
+    "hospital_name": "Hospital Angeles",
+    "country": "mx",
+    "city": "Various",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "language": "es",
+    "xpaths": {
+      "name": "//div[contains(@class, 'nombredoc')]/text()",
+      "provider": "//div[contains(@class, 'esplight margenocho')]/text()",
+      "education": "//div[contains(text(), 'FORMACIÓN ACADÉMICA')]/following-sibling::div[1]/ul/li/text()",
+      "additionalInformation": "//div[contains(text(), 'OTROS ESTUDIOS')]/following-sibling::div[1]/ul/li/text()",
+      "otherActivities": "//div[contains(text(), 'ASOCIACIONES A LAS QUE PERTENECE')]/following-sibling::div[1]/ul/li/text()",
+      "email": "//a[contains(text(), '@')]/@href",
+      "location": "//div[contains(text(), 'Hospital Angeles')]/text()[1]",
+      "photoUrl": "//div[contains(@class, 'fotodir')]/img/@src"
+    }
+  },
+  "HospitenCancun": {
+    "hospital_short_name": "cancun",
+    "hospital_name": "Hospiten Cancun",
+    "country": "mx",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "city": "Cancun",
+    "tab_id": "1152",
+    "module_id": "2415",
+    "page_size": "1000",
+    "language": "es",
+    "center_list": "5"
+  },
+  "AmerimedHospital": {
+    "hospital_short_name": "amerimed",
+    "hospital_name": "Amerimed Hospital",
+    "country": "mx",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "city": "Cancun",
+    "xpaths": {
+      "name": "//div[contains(@class, 'texto')]/h3/text()",
+      "photoUrl": "//div[contains(@class, 'col-md-4 col-sm-3 directorio')]/div/img/@src",
+      "provider": "//div[contains(@class, 'texto')]/p[2]/text()",
+      "email": "//div[contains(@class, 'texto')]/a/@data-mail"
+    }
+  },
+  "CentroMedico": {
+    "hospital_short_name": "centromedico",
+    "hospital_name": "Centro Medico ABC",
+    "country": "mx",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "language": "es",
+    "xpaths": {
+      "name": ".//div[1]/div[2]/p[1]",
+      "location": ".//div[1]/div[3]/p[@class='schedule-title']",
+      "spokenLanguages": ".//div[2]/div[2]/div/div[1]/p[2]",
+      "provider": ".//div[1]/div[2]/p[2]",
+      "education": "//div[@class='cont-licenciatura']"
+    }
+  },
+  "AngelesHealth": {
+    "hospital_short_name": "angeleshealth",
+    "hospital_name": "Angeles Health International",
+    "country": "mx",
+    "city": "Tijuana",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "xpaths": {
+      "name": "//meta[contains(@property, 'og:title')][2]/@content",
+      "provider": "//span[contains(@class,'person-title')]/text()",
+      "description": "//div[contains(@class,'fusion-text fusion-text-3')]/p/text()",
+      "spokenLanguages": "//span[contains(text(), 'Languages')]/span/text()",
+      "education": "//div/h2/span[contains(text(), 'Degrees & Professional Affiliations')]/ancestor::div/following-sibling::div/ul/li/text()",
+      "additionalInformation": "//div/h2/span[contains(text(), 'Awards, Affiliations and Nominations')]/ancestor::div/following-sibling::div/ul/li/text() | //div/h2/span[contains(text(), 'Workshops & Courses')]/ancestor::div/following-sibling::div/ul/li/text()",
+      "photoUrl": "//span[contains(@class, 'imageframe-1')]/img/@src",
+      "otherActivities": "//div/h2/span[contains(text(), 'Published Articles')]/ancestor::div/following-sibling::div/ul/li/text()"
+    }
+  },
+  "MedicaSur": {
+    "hospital_short_name": "medicasur",
+    "hospital_name": "Medica Sur",
+    "country": "mx",
+    "city": "Ciudad de México",
+    "hoursOperation": "Monday-Saturday 08:00-20:00",
+    "xpaths": {
+      "name": "//span[contains(@class, 'text-extra-dark-gray font-weight-600 text-small text-uppercase display-block alt-font')]/text()",
+      "provider": "//span[contains(@class, 'text-black')]/text()",
+      "photoUrl": "//img[contains(@class, 'width-40')]/@src",
+      "additionalInformation": "//span[contains(text(), 'NAME')]/following-sibling::div[1]/div/div/div/p[contains(text(), 'Certifications')]/following-sibling::ul[1]/li/text()",
+      "otherActivities": "//span[contains(text(), 'NAME')]/following-sibling::div[1]/div/div/div/p[contains(text(), 'Scientific work')]/following-sibling::ul[1]/li/text() | //span[contains(text(), 'NAME')]/following-sibling::div[1]/div/div/div/p[contains(text(), 'Scientific Societies')]/following-sibling::ul[1]/li/text()"
+    }
+  }
+}

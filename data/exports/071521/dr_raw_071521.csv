@@ -1,0 +1,755 @@
+,doctorId,name,provider,phoneNumber,country,city,confirmedHours,location,description,spokenLanguages,website,email,hoursOperation,ratings,rating,education,additionalInformation,teleHealth,otherActivities,photoUrl,alternativeMedicine,hoursOperationObj
+0,,Bastard Reyes Edgar José,Anesthesia and Recovery,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/bastardo-reyes-edgar-jose,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+1,,Belén Bautista Nicumedes of Jesus,Cardiology,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/belen-bautista-nicumedes-de-jesus,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/foto-dr-nicumedes.jpg?ver=Q2OVbRIbXc_skkd8kG2uJQ%3d%3d,,
+2,,Chireno Colome Julio Angel,Intensive Care Unit (ICU),,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/chireno-colome-julio-angel,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/sin-titulo.jpg?ver=Qe2LWAKoo2GoZ8y4skYwAQ%3d%3d,,
+3,,Of Rosario Martínez William,Neurosurgery,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/del-rosario-martinez-william,,,,,"• Post-degree in Neurosurgery, Venezuelan Institute of Social Insurance IVSS General Hospital East Dr. Domingo Luciani, Ciudad de Caracas, Bolivarian Republic of Venezuela. 2017. or cerebral surgery: Cranial trauma, brain tumors, cerebral vascular pathology, hydrocephalus, cranocerebral malformations, vagal neurostimulation for epilepsy, diagnostic cerebral angiography, etc. o Espinal surgery: cervical, dorsal and lumbar instrumentation, cervical and lumbar stenosis, discal hernias and raquid and foraminal stenosis, spinal tumors, spinal disprashism, raquitular trauma, etc. • Post-degree in General Surgery and Laparoscopy, University Regional Hospital José María Cabral and Báez, Pontificia Universidad Catholic Mother and Master. Santiago de los Caballeros, Dominican Republic. 2008 -2011. • Advanced Diploma in Interventionist Pain Therapy, Latin American Pain Institute and Palliatives / Autonomous University of Nuevo León, Monte Rey, Mexico. 2020 to the present (culmination 2021). • Training in minimally invasive spinal surgery Aospine, Depuy Sytes, Spine and Combénsive Center, Florida, USA. 2020. • Training in complex cranial surgery, Depuy Sytes Intitute / Cornell University, Miami, Florida, USA. 2019 • International Workshop of Advanced Interventionism for Chronic Pain Management. Autonomous University of Nuevo Leon, Monterrey, Mexico. / Latin American Pain and Palliative Institute. 2019. • Training in interventional pain management. International training center in interventional pain. / University of Panama 2020. • Theoretical and practical training in chronic pain interventional management, CENIT Foundation for the study of neurosciences, Latin American Federation of Pain Interventionist Physicians and University of Panama, Panama City, November 2017. • Medical Training Criticism, Chi Mei Medical Center, Tainán City, Taiwan, Republic of China. SEP-Dec 2007. • Rotation / training in oncological medicine, Liuh-Ying Cancer Center, Tainán City, Taiwan Republic of China. Nov. 2007. • ADVANCE CARTIAC LIFE SUPPORT (ACLS) by Universitary Hospital of Massachusetts, SPM, 2006. • Emergency Medicine / Trauma Course by New-York Presbyterian Hospital / University of Columbia USA / Pontificia University Catholic Mother and Master, Santiago de los Knights, Rep. Dom. 2008. • Graduate of Doctor in Medicine Magna-Cum-Laude, Central University of East (UCE), City of San Pedro de Macorís, Rep. Dom. 2006.",,,,https://hospiten.com/Portals/0/Images/Professionals/dr-del-rosario-martinez-william.jpg?ver=ZNoob2cCMmX3gIbtV_4d6A%3d%3d,,
+4,,Féliz Abreu Sheila Mabel,Dermatology and Venereology,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/feliz-abreu-sheila-mabel,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/mil_8237.jpg?ver=kwi7R2sKjSAHU45uBoRJ9Q%3d%3d,,
+5,,Féliz Abreu Edward Alejandro,Gynecology and Obstetrics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/feliz-abreu-edward-alejandro,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/img-4.jpg?ver=hbEqTYDmGtJ1OR5iBqKwjA%3d%3d,,
+6,,Fernández Acuña Lázaro.,Orthopedic Surgery and Trauma,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/fernandez-acuna-lazaro,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/lazaro.jpg?ver=W5Q-aOuxz3Vfi9amNKqJRQ%3d%3d,,
+7,,Fernández Zapata Yanira Esther,Ophthalmology,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/fernandez-zapata-yanira-esther,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/img-9.jpg?ver=iQHnej9pOLbP-q3RWUwCvw%3d%3d,,
+8,,Hernández Clarissa.,Otorhynolaryngology (ENT),,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/hernandez-clarissa,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+9,,Hernández Cipriano Nora.,General and Gastrointestinal Tract Surgery,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/hernandez-cipriano-nora,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+10,,Mercedes Sánchez Alba F.,Urology,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/mercedes-sanchez-alba-f,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+11,,MOTA SANTANA YURIANA YAMINE,General and Gastrointestinal Tract Surgery,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/mota-santana-yuriana-yamine,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+12,,Nisbett Faulkner José Andrés,Anesthesia and Recovery,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/nisbett-faulkner-jose-andres,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+13,,Payan Hernández Oswaldo.,Image Diagnostics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/payan-hernandez-oswaldo,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+14,,Ramírez Galvá Celina.,Pediatrics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/ramirez-galva-celina,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+15,,Restitute Vélez Aracelys.,Pediatrics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/restituyo-velez-aracelys,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+16,,Rodríguez Rodríguez Yokasta,Internal Medicine,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/rodriguez-rodriguez-yokasta,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+17,,Santana Rosa Kirsy Elizabeth,Gastroenterology,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/santana-rosa-kirsy-elizabeth,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/img-13.jpg?ver=LkzaoVkhhCarE3JHV4-v7A%3d%3d,,
+18,,Serum Moquete Aimee Cecilia,Gynecology and Obstetrics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/suero-moquete-aimee-cecilia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/img-11.jpg?ver=XRsQRBYduU1EzRpQUnyfHg%3d%3d,,
+19,,Tejeda Paniagua Julissa Pamela,Dietetics and Nutrition,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/tejeda-paniagua-julissa-pamela,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+20,,Ubie Rodríguez Sagrario,Pediatrics,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/ubiera-rodriguez-sagrario,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+21,,Zapata Idalia.,Orthopedic Surgery and Trauma,,dr,Punta Cana,False,Hospiten Bavaro,,,https://hospiten.com/en/our-professionals/zapata-idalia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/zapata.jpg?ver=UCCZVWW_9TRQnhAUKQ18DA%3d%3d,,
+0,,Dr. Alicia Ureña,Allergy,849-632-6462,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+1,,Dr. Amalfis Peña,Cardiology,849-206-0880,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+amalfispena@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+2,,Dr. Fernando Fernández,Cardiology,809-440-5523,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drffernandez@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+3,,Dr. Ligia Estévez,Cardiology- Internista.,(809) 804-6257,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ligiaestevez89@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LIGIA-E.jpg,,
+4,,Dr. Serafin Antonio Pérez Grullón,Cardiology,(809) 310-0738,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+serafinperezg@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-SERAFIN-P.jpg,,
+5,,Dr. Aramis Gómez Belliard,Cardiology,Ext. 4202,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+6,,Dr. Milton Elías Jiménez Reynoso,Cardiology,809-696-3460,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686 ext. 4609",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MILTON-T.jpg,,
+7,,Dr. Solangel Raquel Ureña,Cardiology,(829) 642-1028,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drasolangelurena@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-SOLANGEL-U.jpg,,
+8,,Dr. Daniel Alejandro Rivera Silverio,Cardiology - Internist - Echocardiographer,849-637-3006,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686. ext. 4208 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/01/Daniel-Alejandro-Rivera.jpg,,
+9,,Dr. Carmen Grullón, Cardiology,(809) 890-8960,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+carmengrullon@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CARMEN-G.jpg,,
+10,,Dr. Johnny Valentín Cabrera Tavarez,Cardiology,809-966-6091,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drjohnnyv8@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RMM-2-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.jpg,,
+11,,Dr. Samuel Ramos,Cardiology,809-753-0253,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drsamuelramosu@yahoo.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+12,,Dr. Elizabeth Ventura Fañas,Cardiology,Ext. 4314,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+eventurafa@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ELIZABETH-V.jpg,,
+13,,Dr. José Aristides Vargas Peña,Cardiology,809-881-7603,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+josevargas1@codetel.net.do
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-V.jpg,,
+14,,Dr. Sarah Raquel Mars Arias,Cardiology,809-856-5533,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+medmarte@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RMM.jpg,,
+15,,Ana Cruz,Cervical Surgery Facial Maxyl Bucco,(809) 454-1769,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+annytaz0605@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA-ANA-C.jpg,,
+16,,DRA. YERLIN MERCEDES MADERA.,Cervical Surgery Facial Maxyl Bucco,Ext. 4324,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-YETLIN-M.jpg,,
+17,,Dr. Ricardo José Rojas Jiménez,Cervical Surgery Facial Maxyl Bucco,809-722-5051,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+18,,Leiny de la Rosa,Cervical Surgery Facial Maxyl Bucco,809-350-0849,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+delarosacruz@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+19,,Dr. Yhordy Rofanci Minaya,Cervical Surgery Facial Maxyl Bucco,Emergency,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-YHORDY-M.jpg,,
+20,,Omar Colomé,Surgery Maxil Facial Buco,(809) 272-2112,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drcolome@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-OMAR-C.jpg,,
+21,,Dr. Anildy Ramos,Cervical Surgery Facial Maxyl Bucco,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ANILDY.jpg,,
+22,,Dr. Ramón Enrique González,Cervical Surgery Facial Maxyl Bucco,Ext. 4324,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAMON-G.jpg,,
+23,,Dr. Ramón Rojas Castillo,Cervical Surgery Facial Maxyl Bucco,829-660-9389,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+24,,Dr. Bernardo Antonio Hilario Reyes,General Surgery,809-915-6174,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr.berhilario54@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-REINARDO-HILARIO.jpg,,
+25,,Dr. Fidel Bolaños Medina,General Surgery - Bariatric,809-543-2484,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+fidel_bolanos@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+26,,Dr. José Miguel Vargas Grullón,General Surgery,809-710-4341,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+vargascirujano@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-M.-V.jpg,,
+27,,Dr. Juan Luis Fadul,General Surgery,809-481-4822,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+juanluisfadul@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+28,,Dr. Nicolás Espinal Collado,General Surgery,(809) 481-3536,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+nicolasespinal@yahoo.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NICOLAS-E.jpg,,
+29,,Dr. Luis Arsenio Núñez Rosario,Surgeon - oncologist,809-757-1200,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+luiznuez01@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+30,,Dr. Carlos Guzmán Padilla,General Surgery - Coloproctologist,Ext. 4530,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr.cguzmanpadilla@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+31,,Dr. Miguel Marte.,General Surgery,809-710-7773,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+martecirujano@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MIGUEL-M.jpg,,
+32,,Dr. Juan Carlos Rincon Parra,General Surgery,829-304-7472,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+coljk@hotmail.cm",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+33,,Dr. Luis Arcenio Núñez Rosario,General Surgery,809-757-1200,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+luiznuez01@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+34,,Dr. Mariel Rebeca Cid Sánchez,General Surgery,829-720-2013,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+cid.511@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+35,,Dr. Rubén Darío Minaya,General Surgery,809-710-0102,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+rubendariominaya@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+36,,Dra. Damauris García,General Surgery,809-223-6249,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+damaurisgarcia1@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+37,,Dr. Juan Dobar Zorrilla Jáquez,General Surgery,809-958-1526,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dobarzorrilla@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JUAN-D.jpg,,
+38,,Dr. Mercedes María Vargas Franco,General Surgery,809-399-2645,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+mmvf@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RMM-6.jpg,,
+39,,Dr. Rafiel Vásquez Czech,General Surgery,Ext. 4202,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+40,,Dr. Naoky Rafael Rodríguez Pen,General Surgery,809-910-1738,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr_naokyrodriguez@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NAOKYS.jpg,,
+41,,Dr. Manuel Deasts Pimentel,Surgeon - oncologist,809-779-8097,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MANUEL-D.jpg,,
+42,,Dr. ELOISA RODRÍGUEZ,General Surgery,809-902-4622,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+draeloisa_rodriguez@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ELOISA-R.jpg,,
+43,,Dr. José Francisco Abreu Rosario,General Surgery - Bariatric,829-962-8801,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr.abreu58@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+44,,Dr. Juan Francisco Jiménez Bloise,General Surgery - Oncologist,Ext. 4105,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+jimenezbloise@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/07/DR-JUAN-J.jpg,,
+45,,Dr. Ouel sosa,General Surgery,809-753-1592,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-OUEL-SOSA.jpg,,
+46,,Dr. Delgis Arias.,Bariatric surgery - endoscopist,809-821-4390,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/05/Delgis_Arias.jpg,,
+47,,Dr. Nancy Pimentel,Surgeon - Coloproctologist,809-757-1361,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+Tower B, Level 6, Suite 621",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/NANCY-PIMENTEL.jpg,,
+48,,Dr. Carlos Mojica de León,Plastic and reconstructive surgery,(809) 399-4694,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+c_mojica@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CARLOS-M-1.jpg,,
+49,,Dr. Iván de Jesús González Bautista,Plastic and reconstructive surgery,(829) 933-9177,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr.gonzalezbautista@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-IVAN-G.jpg,,
+50,,Dr. Fernando Arturo Francis,Plastic and reconstructive surgery,829-763-9997,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+http://drfernandofrancis.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+51,,Dr. Cesar Elías Herrera Padilla,Plastic and reconstructive surgery,(809) 343-2400,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dreliash@yahoo.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ELIAS-H.jpg,,
+52,,Dr. Jose Luis Mejia,Plastic and reconstructive surgery,829-629-7856,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drjoseluismejia@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-LUIS-M.jpg,,
+53,,Dr. Emilio de Jesús Martínez Estévez,Plastic and reconstructive surgery,(809) 876-3888,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+emiliomartinez@codetel.net.do
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-EMILIO-M.jpg,,
+54,,Dr. Rafael Ulterio Mejía,Plastic and reconstructive surgery,809-223-7554,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+info@ulerio.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAFAEL-U.jpg,,
+55,,Dr. Ignacio Almanzar Morel,Plastic and reconstructive surgery,829-648-0024,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ignacio_almanzar@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-IGNACIO-A.jpg,,
+56,,Dr. Sergio Alberto Guzmán Padilla,Plastic and reconstructive surgery,(809) 983-8336,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dr.sergioguzmanpadilla@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-SERG-G.-P.jpg,,
+57,,Dr. Andrés Felipe Marín Giraldo,Vascular surgeon,809-710-6767,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+marinmd@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+58,,Dr. Franklin Núñez Ramive,Vascular surgeon,Ext. 4522,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FRANKLIN-N.jpg,,
+59,,Dr. Pedro mera,Vascular surgeon,(809) 501-0116,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+pedromera@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-PEDRO-M.jpg,,
+60,,Dr. Yohanna Delgado,Surgeon - Vascular.,(809) 302-5718,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+elizabethdelgado09@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-YAHANA-D.jpg,,
+61,,Dr.Luis Osvaldo Faringthon Reyes,Vascular surgeon,(829) 708-3001,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drfaringthon@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LUIS-F.jpg,,
+62,,Dr. Manuel Rodríguez.,Vascular surgeon,829-844-6160,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MANUEL-R.jpg,,
+63,,DR. Patria Ivelisse Rivera,Surgeon - Vascular.,809-225-3818,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-581-1825
+
+ ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-PATRIA-R.jpg,,
+64,,Dr. Gina Beatriz Star Ramia,Specialist in Emergencies and Disasters,809-863-0312,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ginaestrella@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-GINA-E.jpg,,
+65,,Dr. Víctor Sosa,Specialist in Emergencies and Disasters,829-342-2998,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+66,,Dr. Luisa Hernández,Specialist in Emergencies and Disasters,829-659-1374,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LUISA-H.jpg,,
+67,,Dr. Yanibel Rojas,Emergencióloga.,809- 984-6866,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+68,,Dr. Mickail Wide,Specialist in Emergencies and Disasters,809-253-3504,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+69,,Dr. Carmen Rosa Peralta,Physiatria,809-757-2167,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA-CARMEN-P.jpg,,
+70,,Dra.raysa franco,Physiatria,809-399-4400,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-RAYSA.jpg,,
+71,,Dr. Ivanna Married Peralta,Physiatria,809-993-4602,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+72,,Dra.Alba Mencia Abreu,,809-224-8493 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+73,,Dr. César Augusto Cruz Fermín,Gynecology and Obstetrics,(809) 841-0650,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CESAR-C.jpg,,
+74,,Dr. Cayetano Antonio Collado Cruz, Gynecology and Obstetrics,(829) 255-4337,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-BRUNO.jpg,,
+75,,Dr. Felix Manuel Fernández Polanco,Gynecology and Obstetrics,(809) 877-0221,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FELIX-F.jpg,,
+76,,Dr. Griselda Pichardo Ventura,Gynecology and Obstetrics,809-979-4137,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+77,,Dr. José Elías Vásquez Ramos,Gynecology and Obstetrics,(809) 299-1568,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-E.-V.jpg,,
+78,,Dr. Juan Bautista Espaillat Fernandez,Gynecology and Obstetrics,829-659-4346,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+79,,Dr. Leandro Gonell Married,Gynecology and Obstetrics,809-853-0208,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LEANDRO-G.jpg,,
+80,,Dr. Pascual Aquiles Báez German,Gynecology and Obstetrics,809-696-4742,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+81,,Dr. Teresa Marlen Peña Rodríguez,Gynecology and Obstetrics,809-997-1809,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-TERESA-M.jpg,,
+82,,Dr. Verónica Josefina Almonte Peña,Gynecology and Obstetrics,809-972-9997,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-VERONICA-A.jpg,,
+83,,Dr. Angela Taveras.,Gynecology and Obstetrics,(809) 886-6652,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ANGELA-T.jpg,,
+84,,Dr. Claudio Andrés Polanco Vicente,Gynecology and Obstetrics,809.902.9486,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CLAUDIO-P.jpg,,
+85,,Dr. Darcia de Jesús Castellanos Díaz,Gynecology and Obstetrics,809-543-3723,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+86,,Dr. Fermín Galvez Almanzar,Gynecology and Obstetrics,(809) 977-8669,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FERMIN-G.jpg,,
+87,,Dr. Hector Peña Grange,Gynecology and Obstetrics,(809) 351-2412,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-HECTOR-P.jpg,,
+88,,Dr. José Gedinson Díaz Star,Gynecology and Obstetrics,(809) 399-2753,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-J.-GEDISON.jpg,,
+89,,Dr. Juan Manuel Cots Martínez,Gynecology and Obstetrics - Oncologist,809-696-8428,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+90,,Dr. Martha Ureña Santana,Gynecology and obstetrics - Oncologist,809-696-0749,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+91,,Dr. Roberto Antonio Báez Sero,Gynecology and Obstetrics,(809) 841-6119,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ROBERTO-B.jpg,,
+92,,Dr. Valentina Rodríguez Infante,Gynecology and Obstetrics,(809) 344-5757,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-VALENTINA-R.jpg,,
+93,,Dr. Antonio Olivo.,Gynecology and Obstetrics,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ANTONIO-O.jpg,,
+94,,Dr. Antonio Olivo.,Gynecology and Obstetrics,809-543-7528,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+95,,Dr. Cristobalina Batista,Gynecology and Obstetrics,809-710-2037,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CRISTOBALINA-B.jpg,,
+96,,Dr. Fabio Pérez Amor,Gynecology and Obstetrics,(809) 979-4084,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FABIO-P.jpg,,
+97,,Dr. Fulvio Vargas.,Gynecology and Obstetrics,809-763-9090,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-04-1.jpg,,
+98,,Dr. Ion barrientos R.,Gynecology and Obstetrics,809-719-0028,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+99,,Dr. José María de Ramón Medina,Gynecology and Obstetrics,(809) 804-6672,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-MARIA-R.jpg,,
+100,,Dr. Julia Felix Lora,Gynecology and Obstetrics,809-399-2842,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JULIA-F.jpg,,
+101,,Dra. ROSE MARY CABREME SEBERINO,Gynecology and Obstetrics,(809) 876-0181,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROSE-C.jpg,,
+102,,Dr. Luis José Fadul,Gynecology and Obstetrics,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-F..jpg,,
+103,,Miss. Chesnarda from Cruz,Gynecology and Obstetrics,N/I,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DE-LA-CRUZ.jpg,,
+104,,Dr. Richard de León,Gynecology and Obstetrics,Ext. 4507,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RICHARD-L.jpg,,
+105,,Dr.Danilo Manuel Ricourt Coronado,Gynecology and Obstetrics,809-979-2755,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+106,,Dr. Farah Taveras Ceballos,Gynecology and Obstetrics,(809) 881-6793,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-FARAH-T.jpg,,
+107,,Dr. Gloria Cruz Vásquez,Gynecology and Obstetrics,(809) 979-5626,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-GLORIA-C.jpg,,
+108,,Dr. José Del Carmen Mojica Sánchez,Gynecology and Obstetrics,(809) 519-2800,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-M.jpg,,
+109,,Dr. José Rafael Reyes Sánchez,Gynecology and Obstetrics,(809) 753-8680,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-R.jpg,,
+110,,Dr. Luis Bernardo Mancebo Mancebo,Gynecology and Obstetrics,(809) 753-7755,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LUIS-M.jpg,,
+111,,Dr. Omar González Maura,Gynecology and Obstetrics,809-979-2064,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+112,,Dr. Silvia Jeréz de Vargas,Gynecology and obstetrics / laparoscopy and sonography,809-875-0707,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RMM22.jpg,,
+113,,Dr. Víctor Silver Silver Tejada,Gynecology and Obstetrics,809-710-1437,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-VICTOR-E.jpg,,
+114,,Dr. Fermín Galvez.,Gynecology and Obstetrics,Ext. 4511,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-G...jpg,,
+115,,Dra. Heyll del Villar,Gynecology and obstetrics - Fetal Marterno,809-801-2613,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/10/DRA.-HEYSELL-DEL-VILLAR.jpg,,
+116,,Dr. María Lucila Severino,Gynecology and obstetrics - Fetal maternal / perinatology,(829) 889-1282,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-S.jpg,,
+117,,Blood. Faniry Hidalgo,Gynecology and obstetrics - Fetal maternal,829-343-4195 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+faniryhidalgo@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/04/DRA.-FANIRY-HIDALGO.jpg,,
+118,,Dr. Solis Bonilla,Pediatrician-hematologous,Ext. 4109,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-SOLIS-B.jpg,,
+119,,Dr. Dilia Camejo,Intression,809-880-0047,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+120,,Dra. Carolyn Aquino,Intensivist,829-383-2759,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CAROLYN-A.jpg,,
+121,,Dr. Edgar Luna.,Intexivist - Internist,(809) 851-0933,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-EDGAR-L.jpg,,
+122,,Dra. Julissa Abreu,Intensivist,829-649-0373,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+123,,Dr. Elba Abreu Hernández,Intression,(809) 904-1308,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ABREU.jpg,,
+124,,Dr. Milci Contreras,Internist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MILCI-C.jpg,,
+125,,Dr. Marcos Pérez.,Intression,829-585-8888,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+126,,Jaqueline del Carmen Zorrilla Cabral,Nephrology,809-697-7739,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JACQUELINE-Z.jpg,,
+127,,Rosa Castillo Bencosme,Internist Nefróloga,809-821-6994,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/DRA.-ROSA-CASTILLO.jpg,,
+128,,Carlos José Cruz.,Nephrólogia,(809) 608-2346,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CARLOS-C.jpg,,
+129,,Drugs Araly García Reinoso,Internist Nefróloga,809-756-1207,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+aralygarciamd@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/DRA.-ARALY-GARCIA.jpg,,
+130,,Erica Mercedes Muñoz López,Nephrólogia,809-915-3636,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ERICA-M.jpg,,
+131,,Gloria del Carmen Azcona Reyes,Nephrology,(809) 757-2131,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA-GLORIA-A.jpg,,
+132,,Dr. Cristina Martínez,Neurosurgery,809-309-0243,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CRISTINA-M.jpg,,
+133,,Dr. José Rafael Concepción Alonzo,Neurosurgery,809-440-1965,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+134,,Dr. Rolando Antonio Alvarez,Neurosurgery,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+135,,Dr. Danny Mallol,Neurosurgery,(809) 702-7074,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-DANNY-M.jpg,,
+136,,Dr. Jeffrey Paulino,Neurosurgery - oncologist,829-768-2004 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+n.oncologo@gmail.com 
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JEFFREY-P.jpg,,
+137,,Hansel David Suarez.,Neurosurgery - Column surgery,(829) 273-2233,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+(809) 226-8686 Ext. 4616 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/12/Juan-David-Suarez.jpg,,
+138,,Dr. Francisco Antonio Basra Payamps,Neurosurgery,(809) 720-2508,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FRANCISCO-B.jpg,,
+139,,Dr. Ramón Antonio de León Berra,Endovascular neurosurgery,(809) 696-3850,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAMON-L.B.jpg,,
+140,,Dr. Renee Lola María Taveras,Pediatric neurosurgery,(809) 979-4537,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-RENEE-T.jpg,,
+141,,Dr. Luis Gabriel Rivas,Neurosurgery,809-879-3463,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LUIS-R.jpg,,
+142,,Miguelina Mercedes León González,Pediatric neurology,(809) 226-8686,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MIGUELINA-L.jpg,,
+143,,Dr. Lindsay Cruz Tapia,Pediatric neurology,Ext. 4215,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+144,,Bernardo José Rodríguez Rodriguez,Ophthalmology,809-241-5322,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+145,,Jeannette Domínguez.,Ophthalmology,829-592-2171,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+146,,Milagros Elena Martínez.,Ophthalmology,809-880-5255,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/04/DRA.-MILAGROS-M.jpg,,
+147,,Ronnie Féliz Castillo.,Ophthalmology,809-582-0819,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RONNIE-F.jpg,,
+148,,Carolina Almanzar,Ophthalmólogo- pediatric,(809) 975-1613,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+carola2712@hotmail.com
+ ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CAROLINA-A.jpg,,
+149,, Karen Mojica de León,"Ophthalmology-cataract, cornea, refractive surgery",(829) 878-6474,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-KAREN-M.jpg,,
+150,,Oscar Ignacio Durán Cabral,Ophtamology,(809) 753-0801,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-OSCAR-D.jpg,,
+151,,Dr. Elena Almanzar,Ophtamology,Ext. 4309,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ELENA-A.jpg,,
+152,,Dilenia Altagracia Muñoz Ramos,Ophthalmology,(809) 222-5270,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DILENIA-M.jpg,,
+153,,Kirsys Carrasco.,Ophthalmology,809-882-7875,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-KIRSYS-C.jpg,,
+154,,Rafael Welcome Peña Gutiérrez,Ophthalmology,809-543-6233,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAFAEL-P.jpg,,
+155,,Giselle Sánchez Bosonó.,Ophtamology-glaucoma.,809.863.5104,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RRM-3.jpg,,
+156,,María Magdalena Piña Dirocie,Ophtamology,809-241-5322,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+157,,Rafael Antonio Fernández Pereyra,Ophtamology,(809) 222-5270,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAFAEL-F.jpg,,
+158,,Fernando Arturo Valdez Gobaira,Otorhinolaryngology,(809) 753-3384,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FERNANDO-T.jpg,,
+159,,Maricela Cabrera.,Otorhinolaryngology,(809) 885-9428,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+siguiendolapaz@yahoo.com ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARCELA-C.jpg,,
+160,,Sasso frucina,Otorhinolaryngology,(829) 785-6299,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra.sasso@gmail.com
+ ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/06/Francina-Sasso.jpg,,
+161,,Myrna Jocelyn Cabrera Sero,Otorhinolaryngology,(849) 419-6360,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+marcab@hotmail.com
+
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MYRNA-C.jpg,,
+162,,Jean Luis Bergés,Otorhinolaryngology,(849) 353-5301,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686 Ext. 4305",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JEAN-LUIS-B.jpg,,
+163,,Rafael Luis Bergés.,Otorhinolaryngology,809-581-7448,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.RAFAEL-L.jpg,,
+164,,Luis Báez.,Otorhinolaryngology -cirujano de Neck,(809) 223-8650,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+luisbaezmd@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LUIS-B.jpg,,
+165,,Queen Altagracia Czech Acevedo,Otorhinolaryngology,(809) 543-3979,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-REINA-C.jpg,,
+166,,Dr. Agueda T. by Jesus Pichardo Lovelace,Pediatrics,809-753-5094,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/5-01.jpg,,
+167,,Dr. Erminda Isabel Pérez González,Pediatrics,809-979-1833,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/2-01.jpg,,
+168,,Dr. Mayra Milagros Olivier Díaz,Pediatrics,809-399-3677,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MAYRA.jpg,,
+169,,Dr. María Caba de la Cruz,Pediatrics,(809) 918-3862,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-C.jpg,,
+170,,Dr. Alfred Cruz Hernández,Pediatrics,(809) 301-0821,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+171,,Dr. Yamilka Canahuate Ruiz,Pediatrics,(809) 330-3634,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+172,,Dr. Ignacio Almanzar Pérez,Pediatrics,(809) 710-0734,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-IGNACIO-ALMANZAR.jpg,,
+173,,Dr. Carlos Juan Martínez Hidalgo,Pediatrics,(809) 918-3715,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CARLOS-M.jpg,,
+174,,Dra Raquel rodriguez yapoort,Pediatrics,Ext. 4230,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+175,,Dr. Jesús Manuel Cruz Arias,Pediatrician-pneumologist.,(809) 841-2840,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+176,,Dr. Amarilis Sobeida Henríquez Molina,Pediatrics,(809) 979-6639,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+177,,Dr. Cristina Australia Liriano Durán,Pediatrics,(809) 350-8060,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CRISTINA-L.jpg,,
+178,,Dr. Sandra Virginia Rodríguez León,Pediatrics,809-857-2929,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-SANDRA-R.jpg,,
+179,,Any Francisco,Radiology,809-757-9979,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+180,,LISSETTE BERMOUND,Radiology,(809) 877-2828,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LISSTTE-B.jpg,,
+181,,Rodolfo Market Méndez.,Radiology,(829) 260-3048,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RODOLFO-M.jpg,,
+182,,Delcia Jiménez Rodríguez.,Radiologist-mastologist,(809) 226-8686 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DELCIA-J.jpg,,
+183,,Lowell Valerio Grullón.,Radiology,809-643-0880,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+184,,Dr. Sabino Barez,Radiologist-mastologist.,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-SABINO-B.jpg,,
+185,,José Antonio Rojas Mañón,Radiology,809-722-5050,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+186,,Dr. Joleny Tavera,Radiology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JOLENNY.jpg,,
+187,,Pearl Almonte., Neuroradiologist.,(809) 481-0011,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-PERLA-A.jpg,,
+188,,Dr. Anthony Díaz Díaz,Ultrasound,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ANTHONY-D.jpg,,
+189,,Dr. Alexander Zorrilla.,Urologist,809.610.7424,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/11/DR.-ALEXANDER-Z.jpg,,
+190,,Dr. Erick Alberto Grull Matos,Urology,809-975-1111,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+urologo@me.com ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ERICK-G.jpg,,
+191,,Dr. Nicolás de Jesús Rodríguez Tejada,Urology,Ext. 4209,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NICOLAS-R.jpg,,
+192,,Dr. Robert Castillo,Urology,849-632-6461,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/Robert-Castillo.jpg,,
+193,,Dr. Angelina del Carmen Trinidad de León,Urology,809-399-0369,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ANGELINA-T.jpg,,
+194,,Dr. Eva Mars,Pediatric urologist,(849) 869-6188,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.EVA-MARTE.jpg,,
+195,,Dr. Rafael Star Pérez,Urology,809-241-0298,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drafaelestrella@claro.net.do
+
+
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAFAEL-E.jpg,,
+196,,Dr. Arlini Rodríguez,Urologist,(809) 886-2416,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+draarlinirodriguez@gmail.com
+
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ARLINA-R.jpg,,
+197,,Dr. Fausto Antonio Hernández Alberto,Urology,809-481-2551,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FAUSTO-H.jpg,,
+198,,Dr. Víctor of Jesús Liz Sánchez,Urology,809-981-0601,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/11/DR.-VÍCTOR-DE-JESÚS-LIZ-SÁNCHEZ.jpg,,
+199,,Dr. Eladio Alberto Hilario Colón,Urology,809-979-6454,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+200,,Dr. Manuel Antonio Vargas Hidalgo,Urology,(809) 430-5918,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MANUEL-V-2.jpg,,
+201,,Dr. Robinson Santos,Urology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ROBINSON-S.jpg,,
+202,,Dr. Eva Mars,Pediatric urologist,(849) 869-6188,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.EVA-MARTE.jpg,,
+203,,Dra. Inis Fermin Gonell,Pediatric allergist,809-299-4073,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-INIS-F.jpg,,
+204,,Aramis Gómez Belliard,Cardiology- interventionist - hemodinamia,809-519-2037,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,#VALUE!,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+205,,Elizabeth Ventura.,Cardiology- interventionist - hemodinamia,809-756-2910,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+draelventura@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+206,,Dr. Héctor José Rosario Figueroa,Cardiology- interventionist - hemodinamia,Ext. 4526,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+207,,Dr. Cesar Fernandez,Surgeon orthopeda foot and ankle,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+208,,Dr. Hugo Manuel María,Surgeon - oncologist,829-994-0496,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-HUGO-M.jpg,,
+209,,Dr. Juan Francisco Jiménez Bloise,Surgeon - oncologist,(809) 710-2999,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+jimenezbloise@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR-JUAN-J.jpg,,
+210,,Dr. Luis Arsenio Núñez Rosario,Surgeon - oncologist,809-757-1200,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+luiznuez01@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+211,,Dr. Manuel Deasts Pimentel,Surgeon - oncologist,809-779-8097,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MANUEL-D.jpg,,
+212,,Dr. Carlos Guzmán Padilla,General surgeon - Coloproctologist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CARLOS-G.jpg,,
+213,,Dr. Sergio Rafael Guzmán Durán,General surgeon - Coloproctologist,(809) 545-0916,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+sergioguzman52@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-SERGIO-G.jpg,,
+214,,Dr. Alberto Robledo Oquet,Endocrinology,(809) 981-2986,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+agmrobledo@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ALBERTO-R.jpg,,
+215,,Dr. Olga Gil Díaz,Endocrinology,809-979-2015,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra_olga@msn.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+216,,Dr. María de los Angeles Peralta,Endocrinologist Thyroid diseases,(809) 973-5376,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+angiep203@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-P.jpg,,
+217,,Dr. Mario José Rosario Figueroa,Endocrinology,809-753-3347,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+218,,Drag. Michel Virginia Tolentino Salcedo,Endocrinologist Thyroid diseases,(829) 750-3491,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra.tolentinosalcedo@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MICHEL-T.jpg,,
+219,,Dr. Alondra Castillo Medina,Gastroenterology,829-801-6015,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dracastillom@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ALONDRA.jpg,,
+220,,Dr. Graciela Carbonell,Gastroenterology,(809) 979-2490,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+gachy_carbonell@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-GRACIELA-C.jpg,,
+221,,Dr. Julia Amelia García Tolentino,Gastroenterology,(829) 221-0666,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drajuliagarcia@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JULIO-G.jpg,,
+222,,Dra. Miguelina Santos,Gastroenterology,809-712-7777,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dramiguelinasantos@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-01.jpg,,
+223,,Dr. Andry Richard Acosta Rojas,Gastroenterology,809-841-3060,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+andryacosta22@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ANDRY-A.jpg,,
+224,,Dr. Guillermina Maribel Guichardo Reyes,Gastroenterology,(809) 841-9679,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra.ggguichardo@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-GUILLERMINA-G.jpg,,
+225,,Dr. Julissa María Acosta Heredia,Gastroenterology,(809) 979-6450,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+julissa_acosta@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JULISA-A.jpg,,
+226,,Dr. Ruth Esther Arias Bautista,Gastroenterology,(809) 882-0144,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drarutharias@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-RUTH-A.jpg,,
+227,,DRA. Damiana Gómez Gil,Gastroenterology,809-753-8268,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dragomezgil@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DAMIANA.jpg,,
+228,,Dr. Veronica de Jesús Lockward Grull,Gastroenterology,809-844-7072,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+veronicalockr@hotmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-VERONICA-L.jpg,,
+229,,Drag. Freyris Thomas Lora.,Gastroenterology,Ext. 4713,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686. ext. 4713",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/01/Dra.-Freyris-Thomas-Lora.jpg,,
+230,,Dr. Mariel Suárez Jáquez,Gastroenterology,Ext. 4703,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686 Ext. 4703 
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/02/MARIEL-SUAREZ-JAQUEZ.jpg,,
+231,,Dr. Emerson de Jesús Fernández Ureña,Gastroenterology,(809) 841-8654,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+emersonfer@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-EMERSON-F.jpg,,
+232,,Dr. Juan Carlos Lizardo Ledesma,Gastroenterology,(829) 764-2306,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drjuanclizardo@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JUAN-L.jpg,,
+233,,Dra. Melán Chez Oleaga,Gastroenterology,809-979-0922,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-04.jpg,,
+234,,Dr. Carmen Martínez,Fertility and infertility,(849) 243-1115,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CARMEN-M.jpg,,
+235,,Dr. Michael Cortiñas,Gynecologist obstetric-infertility,809-857-6749,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MICHAEL-C.jpg,,
+236,,DRA. Dayissel Ricourt Diaz,Gynecologist Obstetrician - Assisted Reproduction,(829) 340-9917,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-226-8686 ext. 4216 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/01/DRA.-YADISSEL-R.jpg,,
+237,,Dr. Gustavo Emilio Gonell Morel,Gynecologist obstetric-infertility.,809-399-7767,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-GUSTACO-G.jpg,,
+238,,Blood. Christmas espinal,Gynecologist obstetric-infertility,(829) 383-0256,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-NOELYS-E.jpg,,
+239,,Dr. José Antonio Gonell,Gynecologist obstetric-infertility,809-383-7365,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-G-.jpg,,
+240,,Angel Luis Saint Hilaire,Uroginecology,809-876-7798,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+241,,Dra. Melanie Porter.,Gynecology-Obstetrics Infertility,Ext. 4343,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MELANIE-P.jpg,,
+242,,Dr. Rosa Margarita Santana Gómez,Gynecologist Obstetrician - Infertility,809-773-3319,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RRM.jpg,,
+243,,Dr. Francisco Oscar Espino Torres,Gynecology and Obstetrics - Perinatology,(809) 545-0083,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FRANCISCO-E.jpg,,
+244,,Dr. Richar de León Duran,Gynecology and Obstetrics - Perinatology,809.979.4507,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+245,,Dr. Julio Gonell Morel,Gynecology and Obstetrics - Perinatology,(809) 635-0133,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-01-1.jpg,,
+246,,Dr. Yovani Rodríguez,Gynecology and Obstetrics - Perinatology,(809) 864-1618,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/01/DRA.-YOVANI-RODRÍGUEZ.jpg,,
+247,,Dr. Marino Pérez.,Gynecology and Obstetrics - Perinatology,(809) 853-7456,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MARINO-P.jpg,,
+248,,Dr. Pedro José Pérez Hernández,Gynecology and Obstetrics - Perinatology,(809) 753-0528,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-PEDRO-P.jpg,,
+249,,Anny Teresa Hernández.,Infectologist,809-805-5900,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+250,,Carol Scare.,Infectologist,849-917-1110,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+251,,Dr. Floralba Vásquez Lantigua,Neonatal Intensivist / Pediatrics,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-FLORALBA.jpg,,
+252,,Dr. María Estévez Salcedo,Neonatal Intensivist / Pediatrics,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-E.jpg,,
+253,,Drag. Criselys Alcantara,Pediatrics-Intensivist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CRISELYS-A.jpg,,
+254,,Dr. Natalia García Batista,Pneumology,(809) 399-3685,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-NATALIA-G.jpg,,
+255,,Dr. María Arias,Pneumology- Disorders and sleep apnea,Ext. 4610,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+mariaariasmd@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-A.jpg,,
+256,,Dr. Esther Taveras,Pneumology,809-904-3447,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ESTHER-T.jpg,,
+257,,Blood. Massie portorreal,Pneumology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MASIEL-P.jpg,,
+258,,DRA. Joely Anico,Pneumology,829-764-1277,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JOELY-A.jpg,,
+259,,Drag. Emelda tavernas,Pneumology,809-226-8686 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+260,,Dr. Plutarco Arias.,Pneumology- Disorders and sleep apnea,(809) 224-7986,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/01/Dr.-Plutarco-Arias.jpg,,
+261,,Dr. Azmin Reyes,Pediatrician-nephrólogo,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-AZMIN-R.jpg,,
+262,,Dr. Aimee Lizardo Ledesma,Neuropsychiatrist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/AINNE-L.jpg,,
+263,,Dra. Acela Gonell,Neurology,(809) 978-6928,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ACELA-G.jpg,,
+264,,Dr. Oliver Cabrera Medina,Neurology,(829) 884-9384,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-OLIVER-C.jpg,,
+265,,Dr. Bruno Antonio Rosario Méndez,Neurology,(829) 918-3000,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-BRUNO-R.jpg,,
+266,,Dr. Cristina Ramos,Neurologist-vascular disease,Ext. 4241,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+267,,Dr. Julián Rafael Sued,Neurology,(809) 979-7352,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JULIAN-S.jpg,,
+268,,Dr. Rossy Cruz Vicious,Neurology,829-275-4478,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+(829) 820-8424 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/03/Dra.-Rossy-Cruz-Vicioso.jpg,,
+269,,Dr. María Medina,Neurology,809-848-4366,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+270,,Dr. Alexander Enriquillo Luciano Castillo,Clinical nutriology,829-941-5854,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-ALEXANDER.jpg,,
+271,,DRA. Anyelina gonze,Clinical nourishment,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/04/Dra.-someida-Gonzále.jpg,,
+272,,Dr. Víctor Tomás Méndez Gómez,Clinical nutriology,809-868-4248,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-VICTOR-M.jpg,,
+273,,Dr. William Cabrera,Clinical nutriology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+274,,Dr. César Augusto Núñez Rojas,Clinical oncologist,(809) 399-2060,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CESAR-N.jpg,,
+275,,Dr. Felipe E. Sánchez R.,Clinical oncologist,829-808-6577,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FELIPE-S.jpg,,
+276,,DRA. Lillian López,Clinical oncologist,829-657-3333,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dralillianlopezcruz@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/Lilliam-lopez.jpg,,
+277,,Dr. Julissa Mirror,Clinical oncologist,849-651-0779,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra.espejo.oncologia@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/JULISSA-ESPEJO.jpg,,
+278,,Dr. Felix Contreras Ijuto,Pathology,(829) 649-0768,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+279,,Dr. María José Fernández,Pathology,829-649-0768,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+280,,Dr. Juana María Pérez Tejada,Pathology,809-940-8171,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JUANA-P.jpg,,
+281,,Dra. Madelyne Castillo,Pathology,(809) 350-2859,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MEDELYN-C.jpg,,
+282,,Dr. María Concepción Robledo,Pathology,(829) 344-1033,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CONCHITA-R.jpg,,
+283,,Gilda E. Morel M.,Clínica Psychologist,809-801-0504,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-GILDA-MOREL.jpg,,
+284,,Aimee Lizardo.,Clínica Psychologist,Ext. 4445,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+285,,Ilsy Jiménez de Guzman,Clínica Psychologist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/LIC.-ILSY-J.jpg,,
+286,,Gladis ozoria.,Psychologist - Logo,(829) 301-9676,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+gladisosoria60@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+287,,Patricia Rodríguez.,Clínica Psychologist,809-605-6661,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+288,,Melissa Rivera Silverio.,Clínica Psychologist,829-847-1011,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+289,,Dr. Luis Manuel Guzmán Taveras,Rheumatoid,809-805-0542,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-LUIS-G.jpg,,
+290,,Dr. Paola Estela Gollschalk,Rheumatoid,(809) 223-6362,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-PAOLA-G.jpg,,
+291,,Dra. Vianna Josefina Khoury Rodríguez,Rheumatology-Internista.,(809) 918-4946,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-VIANNA-K.jpg,,
+292,,Dr. Berta Ortega,Anesthesiology,809-916-9859,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drbertaortega@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+293,,Dr. Leydi Rodríguez,Anesthesiology,829-846-1724,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+809-806-0494 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA-LEIDY-M.jpg,,
+294,,Dr. Noelia Gómez,Anesthesiology,809-724-5659,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+829-587-7020 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-NOELIA-G.jpg,,
+295,,Dr. Víctor Manuel Taverras Herrera,Anesthesiology,809-980-6696,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+296,,Dr. Every saosa,Anesthesiology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-KADY-R.jpg,,
+297,,Dr. Patricia Núñez Sánchez,Anesthesiology-neuroanesthesiology,Ext. 2423,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+(809) 226-8686 Ext. 2423",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/02/DRA.-PATRICIA-NUÑEZ.jpg,,
+298,,Dr. Carolyn Matías Pérez,Anesthesiology,809-974-2222,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+299,,Dr. Humberto Lizardo.,Anesthesiology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-HUMBERTO-L.jpg,,
+300,,Dr. Manuel Rafael Ottenwalder,Anesthesiology,809-881-5737,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ruffinoozoria@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR-MANUEL-O.jpg,,
+301,,Dr. Ramón Gerónimo Glove,Anesthesiology,(809) 703-5568,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ambiorixanestesia@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-GERONIMO-G.jpg,,
+302,,Dr. Leiny Estevez,Anesthesia-cardiovascular,829-886-8489,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LEINY-E.jpg,,
+303,,Dr. Faely Martínez.,Anesthesiology,809-862-8620,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+carma31@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+304,,Dr. Juan Ambiorix Ceballos,Anesthesiology,809-855-9559,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+anestesiaunion@yahoo.es
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+305,,Dr. María Isabel Cruz Sources,Anesthesiology,809-979-3227,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drguante@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+306,,Drugs Sair Pérez de Fernández,Anesthesiology,809-979-6465,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drasairaperez@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-03-1.jpg,,
+307,,Dr. Fredy Rodríguez Alba,Anesthesiology,Ext. 2423,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FREDY-R.jpg,,
+308,,Dr. Julián Leonidas Marius Mejía,Anesthesiology,809-399-5737,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drafaelymartinez@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-J.-MARIUS.jpg,,
+309,,Dr. Nelson Manuel Pérez Hiraldo,Anesthesiology,809-418-5309,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+drrodriguezalba@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NELSON-P.jpg,,
+310,,Dr. Soledad Rosario,Anesthesiology,809-977-3242,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+yohanny_franco@hotmail.es
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+311,,Dr. Anabel Tejada,Anesthesiology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/7-02.jpg,,
+312,,Dr. Lucrecia Virginia Ortega,Anesthesiology,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-VIERGINIA-O.jpg,,
+313,,Dr. Yoselyn Vargas,Cardiologist-pediatrician,Ext. 4333,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-YOSELYN-V.jpg,,
+314,,Dr. Rossy Cabreja,Cardiologist-pediatrician,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROSI-C.jpg,,
+315,,Dr. Rossy Cabreja,Pediatrics,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROSI-C.jpg,,
+316,,Dr. Helio Grull,Pediatric surgery,Ext. 4702,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+317,,Dr. Alicia Emilia Rivas Villalona,Pediatric surgery,Ext. 4432,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+318,,Dr. Adalgisa Ozoria Taveras,Dermat,(809) 883-2465,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ada_ozoria@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ADLAGISA-O.jpg,,
+319,,Dr. María Consuelo Yunén Valdez,Dermat,809-802-2312,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+mcyunen@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+320,,Dr. Masiel Franchesca Mejía,Dermat,Ext. 4318,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIEL-M.jpg,,
+321,,Dr. Carmen Yris Taveras Tejada,Dermat,(809) 852-9330,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+cy.taveras@gmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CARMEN-Y.T.jpg,,
+322,,Dr. Massiel Mejia,Dermat,809-756-7998,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+323,,Dr. Katherine Mariel Jáquez Rodríguez,Dermat,829-855-2161,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+kathjaq@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-KATHERINE.jpg,,
+324,,Drugs Melida Karina Collado Fermín,Dermat,809-757-2930,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+mkcollado@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-KARINA-C.jpg,,
+325,,Dr. Loryart Mars Grullón,Dermat,Ext. 4328,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+dra.martegrullon@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LORYART-M.jpg,,
+326,,Dra. Rosa Liliana Gonell Torres,Dermat,Ext. 4236,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+gonell_liliana@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LILIANA-G.jpg,,
+327,,Drag. Denny Guillen.,Endocrinologist Pediatrician,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DENNY-G.jpg,,
+328,,Dra.doris Sánchez.,"Anesthesiology, pain specialist",849-638-3939,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+sanchezdoris1870@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-DORIS-S.jpg,,
+329,,Dra.Milvian released,Anesthesiology Pain Specialist,809-994-0003,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-02.jpg,,
+330,,Dr. Jeniffer Pérez Rodríguez,Pediatrician-gastroenterologist,829-766-6247,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-JENNIFER-P.jpg,,
+331,,Dr. Dinolisa Estévez Díaz,Pediatrician-gastroenterologist,Ext. 4706,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/02/dinolisa-estevez.jpg,,
+332,,Dr. Carlos Manuel Paulino Wood,Geriatrics,(809) 855-1732,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+titomoncion@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-CARLOS-M-2.jpg,,
+333,,Dr. Claudia Gómez.,Geriatrics,809-781-1916,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+clo_clo138@hotmail.com
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/CLAUDIA-G.jpg,,
+334,,Alba Mencia Abreu,Gynecologist - Oncologist,809-224-8493,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ALBA-K.jpg,,
+335,,Juan Manuel Cots Martínez,Gynecology and Obstetrics - Oncologist,809-696-8428,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+336,,Manuel Pérez Fernández.,Gynecology and Obstetrics - Oncologist,809-883-6793,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/4-03.jpg,,
+337,,Martha ureńa santana,Gynecology and Obstetrics - Oncologist,809-696-0749,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARTHA-U.jpg,,
+338,,Virginia de Jesús Lugo Santana,Hematology - Internista,809-846-0046,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+lugovigi@gmail.com 
+
+",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/11/DRA.-VIRGINIA-LUGO.jpg,,
+339,,Dr. Javiela Tejada,Hematology,809-858-4685,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA-JAVIELA-J.jpg,,
+340,,Dra. Betty Maria Perez,Hematology,849-707-8039,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-BETTY-P.jpg,,
+341,,Dr. Loritza Rodríguez,Hematology,809-958-8174,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+342,,Dr. Martha Noemí Pérez Blan,Hematology,809-671-1595,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/07/Dra.-Martha-Pérez.jpg,,
+343,,Dra. Macarde,Hematology,849-362-4545,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-YAYRA-K.jpg,,
+344,,DRA. Genara Margarita Santana Chalas,Pediatric infectology,(809) 841-7640,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARGARITA-S.jpg,,
+345,,Dr. José Ramón Villamanón Fernández,Pediatric infectology,(809) 671-4140,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-V-1.jpg,,
+346,,Dr. Claudia Nulis Given,Internist,829-342-7913,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CLAUDIA-RRR.jpg,,
+347,,Dr. Francisco Mejía Ortiz,Internist,809-979-3329,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+348,,Dr. María Lucia Fortuna,Internist,(809) 889-9623,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-F.jpg,,
+349,,Dr. Randall Kong Jong Foek,Internist,Ext. 4222,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/08/Randall-Jong.jpg,,
+350,,Dr. Claudia Second Rodríguez Cabrera,Internist,(809) 867-0436,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-CLAUDIA-R.jpg,,
+351,,Dr. José Agustin Quezada Báez,Internist,(809) 918-3244,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-Q.jpg,,
+352,,Drugs Rosanna Josefina Ferreiras Collado,Internist,(829) 341-5849,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROSANNA-T.jpg,,
+353,,Dr. Daniel Rivera,Internist-Intensivist,809-979-3006,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-DANIEL-RIVERA.jpg,,
+354,,Dr. Luisa Mercedes Martínez Pura,Internist,(809) 299-3604,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-LUISA-M.jpg,,
+355,,Drag. Vilma Odette Persia Betances,Internist,809-886-3139,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+356,,Dr. Emilio Arias,Internist,(809) 858-1666,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-EMILIO-A.jpg,,
+357,,Dr. María de los Angeles de León Arzeno,Internist,(809) 841-3458,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MARIA-L.jpg,,
+358,,Dr. Washington Acosta,Internist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-WASHINGTON-A.jpg,,
+359,,Dr. Jesús Manuel Cruz Arias,Pediatric pneumology,(809) 841-2840,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JESUS-C.jpg,,
+360,,Dr. Ada de los Santos,Pediatric pneumology,(849) 278-6954,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+ada21nellye@gmail.com",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/DRA.-ADA-DE-LOS-SANTOS.jpg,,
+361,,Harry Alberto Cruz Rodríguez,Neurology orthopedics,(809) 226-8686,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-HARRY-C.jpg,,
+362,,Dr. Arturo Rafael Bisonó Bonnelly,Orthopedic-trauma,809-322-5508,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/2-39.jpg,,
+363,,Dr. Federico A. Bonnelly Thomén,Orthopeda traumatologist - physiatra,809-878-1084,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-FEDERICO-B.jpg,,
+364,,Dr. José Alfonso Gómez,Orthopeda- elongation,(829) 988-1851,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-G.jpg,,
+365,,Dr. Martín Leandro Lora Hidalgo,Orthopedics,809-710-5962,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MARTIN-L.jpg,,
+366,,Dr. Roque Alejandro (Ruddy) Pichardo Acevedo,Orthopedics / Traumatological Podiatrist,(809) 858-6105,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RUDDY.jpg,,
+367,,Dr. Benito José Pérez Baldera,Orthopedics,(809) 805-5770,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-BENITO-P.-01.jpg,,
+368,,Dr. Francisco Javier Luciano Peña,Orthopedics-spine surgery,809-697-4948,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+369,,Dr. José Miguel Domínguez Collado,Orthopedics-traumatótico,(809) 882-3617,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-JOSE-D.jpg,,
+370,,Dr. Ngero Scottish,Orthopedics-knee and shoulders,(809) 707-5260,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NIGUERO-A.jpg,,
+371,,Dr. Russell Santos,Orthopedics,Ext. 4106,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+372,,Dr. Hortensio Castillo,"Orthopedged / traumatological shoulders, elbows and hands",(809) 935-2222,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-HORTENSIO-C.jpg,,
+373,,Dr. Marcos Amaurys Martínez Pérez,"Orthopedged / Traumatology Shoulders, arms and hands",809-867-7902,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+374,,Dr. Osmar Corona,Orthopedics-spine surgery,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+375,,Dr. Harry Alberto Cruz Rodríguez,Neuro-orthopeda-podiatrist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+376,,Dr. Roads García Sánchez,Orthopedics - Traumatology,829-380-8422 ,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+(809) 226-8686 Ext. 4621 ",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/KELUIS-GARCIA.jpg,,
+377,,Dr. César V. Fernández Romám,Orthopedics - Foot and ankle surgery,809-224-7722,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+378,,Dr. Iohan Sahil Fernández Romanian,Orthopedics-spine surgery,809-881-0261,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2021/05/IOHAN-FERNANDEZ.jpg,,
+379,,Dr. María Alt. Polanco Méndez,Orthopedics,829-686-5660,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+380,,Dr. Rocio de la Cruz,Orthopedics-oncologist,(809) 603-2011,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROCIO-C.jpg,,
+381,,Dr. Amalfis Peña,Pediatrician Perizinologist,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+382,,Dr. Eridania Núñez Espinal,Pediatrician PerinaTóloga,Ext. 4318,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+383,,Dr. Milagros Núñez,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-MILAGROS-N.jpg,,
+384,,Dr. Fory Pérez,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-FORY-P.jpg,,
+385,,Dr. Joy Vivoni Saladín,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+386,,Dr. Estela Torres,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ESTELA-T.jpg,,
+387,,Dr. Raquel Aura Rodríguez,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/RMM-33xxxxxxxxxxxxxxxxxxxxxx.jpg,,
+388,,Dr. Belgium Durán,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-BELGICA-D.jpg,,
+389,,Dr. Magda Pauline Infante,Pediatrician PerinaTóloga,Ext. 4413,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-04.jpg,,
+390,,Dr. Rosa Maria Morel,Pediatrician PerinaTóloga,,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-ROSA-N.jpg,,
+391,,Dr. Yamel Lizardo,Pediatric oncology,809-481-8855,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,"
+Tower C, Level 4, Suite 440",,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/05/Dra.-Yamel-Lizardo.jpg,,
+392,,Dr. Francisco Angeles Gómez,Psychiatry,809-841-6415,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+393,,Dr. Simón Herrera Maluf,Psychiatry,809-707-0076,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/01/Mod-Avatar-03.jpg,,
+394,,Dr. Manuel Ramón Viera Folch,Psychiatry,(809) 979-0837,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-MANUEL-V.jpg,,
+395,,Dr. Nelson Abraham Tabar García,Psychiatry,809-307-6900,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-NELSON-T.jpg,,
+396,,Dr. Ramón Antonio Gómez Aranda,Psychiatry,809-330-1538,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAMON-G-1.jpg,,
+397,,DRA. Andris Nuêz,Sonography,809-841-5484,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-AUDRIS.jpg,,
+398,,Dr. Rafael Rainiero Jiménez Santos,Sonography,809-660-8996,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-RAFAEL-J.jpg,,
+399,,Dr. Yanín Cobo,Sonography,(809) 753-1053,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DRA.-YANIN-C.jpg,,
+400,,Ambiorix Ottenwalder,Uroginecology,809-978-8400,dr,Santiago de los gentlemen,False,Clinica Union North Medica,,,,,,,,,,,,https://clinicaunionmedica.com/wp-content/uploads/2020/02/DR.-OTTENWALDER.jpg,,
+0,,Coronado Díaz Carolina.,Infectology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/coronado-diaz-carolina,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/carolina.jpg?ver=BSK4pfsxvtalqAGURa2IVQ%3d%3d,,
+1,,Jiménez Rigoberto.,Nephrology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/jimenez-rigoberto,,,,,"Medical Doctor University UASD Internal Medicine Hospital Salvador B. Gautiernefrology Hospital Salvador B. GautierRotio in Transplant, HTA, Dialysis Hospital Hospital of the Sea Glomerulopathy, Ira Barcelona, ​​Spain Master in Modern Management Catholic University of Santo DomingoTraining PD University",Dominican Medical College (cmd) Dominican Society of Nephrology (Sodonef) Latin American Society of Nephrology and Hypertension (SLANH),,,https://hospiten.com/Portals/0/Images/Professionals/rigoberto.jpg?ver=UP2BylXkOqOTvyuUl-ZgIQ%3d%3d,,
+2,,JOA MEI-LIN,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/joa-mei-lin,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/dra-joa-mei-lin.jpg?ver=gFc6_WppF4Iqh550HS75pA%3d%3d,,
+3,,Abraham Rosa María.,Gastroenterology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/abraham-rosa-maria,,,,,"Doctor in Medicine 1981-1989. Unophu Master's Degree in Human Sexuality 1992-1993. UASD Advanced English 1991-1992. Unibe Residence Internal Medicine 1996-1998 Central FF Hospital. AA. And p.n. Gastroenterology residence 1998-2000 IDSS, hosp. ""Dr. Salvador B. Gautier ""Rotation: University Hospital of Puerto Rico. 2000.",Member of the Dominican Medical Association,,,https://hospiten.com/Portals/0/Images/Professionals/rosa-maria.jpg?ver=0UFa0xecycrK7DhTPB7kcA%3d%3d,,
+4,,Abraham Petero.,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/abraham-pedro,,,,,"Neonatologist-intensivist. Maternal Hospital Ramón Sarda. Buenos Aires, Argentina. Pediatrics. Children's Hospital of Children Pedro de Elizalde. Buenos Aires, Argentina, 1989-1992. General Medicine Central University of Este- Uce-St. Peter of Macoris, RD, 1988. Primary and Secondary Students School San Pedro Apóstol. San Pedro de Macoris, Rd, 1981.",,,,https://hospiten.com/Portals/0/Images/Professionals/abra.jpg?ver=DKSVFaD-yKBDZXDaLcFaUg%3d%3d,,
+5,,Acosta Yancy,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/acosta-yancy,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+6,,Agramonte Pinales Samuel.,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/agramonte-pinales-samuel,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+7,,Alcántara Mars Milagros,Internal Medicine,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/alcantara-marte-milagros,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+8,,Cheerful urban,Internal Medicine,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/alegre-urbana,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/alegre.jpg?ver=3LGzgsLtlDrAvRL5_mcczQ%3d%3d,,
+9,,Álvarez Villilo Ramón,Neurosurgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/alvarez-villilo-ramon,,,,,"January 13, 2020-Dec. 11,2020 Fellowship Anatomy Microsurgíca Institute of Neurological Ciências (ICNE) Laboratório Prof. Dr. Evandro de Oliveira São Paulo, Brazilian 13, 2020-Dec 11,2020 Fellow Cerebrovascular Surgery and Skull Base Institute of Ciências Neurological (ICNE) Hospital Portuguese Beneficiance São Paulo, Brazil2015-2019 Specialist in Neurosurgery Neurology and Neurosurgery Prof. Dr. Rafael Estrada González La Habana, Cuba2016-2019 Ozonotherapy Intradiscal Neurology and Neurosurgery Prof. Dr. Rafael Estrada González La Habana, Cuba2018 Vascular and nervous microsurgery ( Censex) Victoria University of Girón La Habana, Cuba2001-2010 Doctor of Medicine Central University East (UCE) San Pedro de Macorís, RD",Octubre 2020 American Association of Neurological SurgeonsSeptiembre 2020 Society for Neuro Oncology Latin AmericaSeptiembre 2020 Member of the Academy Brazilian of Neurosurgery Septiembre 2020 Member of the Brazilian League of Epilepsy Agosto 2020 Resident Member American College of Surgeons,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+10,,Jose,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/aponte-jose,,,,,"Workshop on Articular Replacement Latin Italy, 1998post Degree in Orthopedics and Traumatology Autonomous University of Santo Domingo (UASD) Hospital Teaching DR. Dario Contreras July 1990-June 1994DR. In Medicine Autonomous University of Santo Domingo (UASD) 1981 - 1987",,,,https://hospiten.com/Portals/0/Images/Professionals/jose.jpg?ver=tG5ydKfN-CrgPnEniVaZtw%3d%3d,,
+11,,Arias Montilla Mirna.,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/arias-montilla-mirna,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+12,,Batista Lemaire Silvia,General and Gastrointestinal Tract Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/batista-lemaire-silvia,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+13,,Baptist Guerrero Melvin.,Sonography,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/bautista-guerrero-melvin,,,,,"Doctor of Medicine Autonomous University of Santo Domingo Santo Domingo, Rep. Dom. 2001-2007 Medico Imageno Medical Friendship Medical Japanese Friendship. (Camadoja), Universidad Nacional Pedro Henríquez Ureña (Unphphu) Santo Domingo, Rep. Dom. 2009-2013.",,,,https://hospiten.com/Portals/0/Images/Professionals/mel.jpg?ver=3-4IF52CS_NveeSx8717Pg%3d%3d,,
+14,,Bobadilla Reyci.,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/bobadilla-reyci,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/bobadilla.jpg?ver=u_-krLxTUgdokK8HqCXeQg%3d%3d,,
+15,,Cabrera Milena,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cabrera-milena,,,,,"Doctor of Medicine, Autonomous University of Santo Domingo School of Medicine 1976. Sto. DGO. Specialty in Pediatrics Autonomous University of Santo Domingo, Hospital Dr. Robert Reid Cabral, Santo Domingo, R. D. Subespecials: Gastroenterology and Nutrition, Children's Hospital of Mexico, Mexico, D. F. 1979-1980. Pediatric endoscopy and laboratory techniques on pediatric gastroenterology, sanitary city, peace, madrid, Spain. 1988 Diagnosis, Treatment in Pediatric Gastroenterology at the Hospital ""Oita"", Oita, Medical University, Oita-Japan, Sept. 1993 March 1994MaStry in Higher Education, Autonomous University of Santo Domingo, R.D. 2008 - 2010.","Member of the Office of Active Tesis Advisory Active of the Small Cloister UASD Dominican Medical Association. Dominican Society of Pediatrics. Dominican Society of Gastroenterology. Sto. DGO., REP. DOM. Dominican Association of Pediatric Research. Member of Latin American Association of Pediatrics. (Alape). Member of the Teaching Council of the Hospital Dr. Robert Reica Cabral. Medical Association of the Children's Hospital of Mexico. Mexico. D.F. American Academy of Pediatrics, United States of America. Association of pediatricians graduated from the Children's Hospital Dr. Robert Reid Cabral, STO. DGO. Rep. Dom. Dominican Society of Food and Nutrition. Sto. DGO. Rep. DOM. Member of Anmepro (Association of Businesswomen and Professional), STO. DGO. , Rep. Dom. Member of Association of Businesswomen (ADME), Directive Chapter Health, STO. DGO. Rep. Dom. Member Member Legal reform against discrimination against women. Founding member of the Gastroenterology Chapter Pediatric Dominican Society of Gastroenterology, March 1996. Director of the Pediatric Gastroenterology Chapter. 1998-999.",,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+16,,Cabrera Ginny,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cabrera-ginny,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+17,,Camilo de Bidó Angiolina,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/camilo-de-bido-angiolina,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+18,,Married Sandy.,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/casado-sandy,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/sandy.jpg?ver=S7uoFyr6yPfP0_lnmRm2gA%3d%3d,,
+19,,Castro Natalia,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/castro-natalia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/natalia.jpg?ver=ID-qKWlmeicUgLu4T6CAdA%3d%3d,,
+20,,Cedano Núñez Mariella.,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cedano-nunez-mariella,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/mariella.jpg?ver=lmLKiH836kjF_ZYdamFg9g%3d%3d,,
+21,,Full lissette,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cheas-lissette,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+22,,Lamb Leandra.,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cordero-leandra,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/leandra.jpg?ver=MhHSMbBLRiiZSuqKf3GeCw%3d%3d,,
+23,,Cornelio Cruzeta Minerva Altagracia,Hematology and Hemotherapy,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cornelio-cruzeta-minerva-altagracia,,,,,"1992-1999 Autonomous University of Santo Domingo (UASD) Doctor in Medicine ""Cum Laude"" .1997 Autonomous University of Santo Domingo (UASD) / 2008 Natural Learning Corporation (NLC) / 2008 Secretariat of Higher Education, Science and Technology (SEESCYT) ENGLISH By immersion. ENGLISH COURSES2002 COMPUTER AFFORTIC SCHOOL SCHOOLS2000-2003 Salvador Hospital B. Gautier Idsscargo: Resident Medical Resident Medicine 2002-2003 2003-2005 Hospital Salvador B. Gautier Idsscargo: Medical Hematology Resident of Residents 2003-2005enero-April 2005 Training in The University Hospital of Adults at the Medical Center of Río Stone, Puerto Rico (PR) (Department of Oncohematology).","Dominican Medical College (cmd) Dominican Society of Hematology and Oncology (Sodohemo) Society Dominican Hematology (Sodohem) International Society of Hematology, Interamerican Division (ISH)",,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+24,,Coronado Carolina.,Infectology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/coronado-carolina,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+25,,Cueto Carmona Daniel.,Clinical Psychology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cueto-carmona-daniel,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/dr-cueto-carmona-daniel.jpg?ver=7PFcTYoGKgz8tdPXqKFDpw%3d%3d,,
+26,,Luciano Cuevas Diogenes Tomás,Interventional Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/cuevas-luciano-diogenes-tomas,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+27,,Of the cross Iris Janet,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/de-la-cruz-iris-janet,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+28,,Of the rose luisa,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/de-la-rosa-luisa,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/luisa.jpg?ver=H-nN6JdhqwdDY5Z_oW1szA%3d%3d,,
+29,,Of Lion Valenzuela Andy,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/de-leon-valenzuela-andy,,,,,"Arthroscopy and Sports Medicine Latin American Training Center at Minimally Invasive Surgery (CLEMI) Post-Degree Internship in Children's Orthopedic Hospital Caracas, Venezuela (2007) Post-Degree in Orthopedics and Traumatology Central University of the Holy Armed Forces Hospital Sunday, Dominican Republic: (2004-2008) Doctor in Medicine (Exequatur: 511-03) Autonomous University of Santo Domingo Santo Domingo, Dominican Republic (1995-2001)","Member Holder Medical College Dominican (cmd) Santo Domingo, Dominican Republic, 2001 Member Tenates Dominican Society of Orthopedic and Traumatology, Inc. (SDOT) Santo Domingo, Dominican Republic, 2008 Member Dominican Society of Artroscopy Santo Domingo, Dominican Republic, 2012 Member International Affiliate Society of Orthopedics and Traumatology (Sicot) American Affiliate Member American Academy of Orthopaedic Surgeons (AAOS) Since 2008. International Affiliate Member Latin American Society of Knee Arthroscopy and Sports Traumatology (Slard), 2008. ARTARA INTERNATIONAL ARTIVAL ARTIVA, 2008. Member Title International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine (Isakos), 2013 International Member Society International of Artroscopy (AEA), 2011. Member Instructor Red Cross Dominican since 1993.",,,https://hospiten.com/Portals/0/Images/Professionals/andy.jpg?ver=8pBXFyDA9Fs%3d,,
+30,,Of Peña Gabriel.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/de-pena-gabriel,,,,,Specialization in Plastic and Reconstructive Surgery of Vulva and Vagina. (Maryland and Delaware USA) Specialization in Rejuvenation and Personalized Design Surgical Lasertéccés developed by Professor Dr. David Matlock Founder and Director of the Laser Institute of Vaginal Rejuvenation.,Secretario General de la Socieddad de Cosmetoginecologia del CaribeMiembro de :American Academy Of Cosmetic SurgeryAcademy Of Liposuction SurgeryInternational Society Of Cosmeto GynecologyInternational Academy of Laser Medicine and Surgery American Society of Laser Medicine,,,https://hospiten.com/Portals/0/Images/Professionals/gabriel_de_pena_004.jpg?ver=agwzoZlH_-LhMwBJtjRF7g%3d%3d,,
+31,,Diplan Rubio Johanna,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/diplan-rubio-johanna,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/dra-diplan-rubio-johanna.png?ver=pSfchzzKWKlp4b9dtKBDOA%3d%3d,,
+32,,Oleo kranwinkel patricia,Image Diagnostics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/doleo-kranwinkel-patricia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/patr.jpg?ver=Cey8HjAwN1ZfCaTfk-2Mrw%3d%3d,,
+33,,Domíguez Cabral José Ramón,General and Gastrointestinal Tract Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/domiguez-cabral-jose-ramon,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/jose-ramon.jpg?ver=EIiwGW1yyMxbjBqtDtTVYw%3d%3d,,
+34,,DURAN YESENIA.,Clinical Psychology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/duran-yesenia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/dra-duran-yesenia.jpg?ver=MgCtSwDmed9o2fE7t6Vagg%3d%3d,,
+35,,Ely Henry,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/ely-henry,,,,,"NTENDATION IN PREVIOUS SEGMENT SURGERY, HORTH, CATALATE AND GLAUCOMA, INDEN 1995ROYAL HOSPITAL OF LONDON, REYNO UNITED. 1996Training in Pathologies of anterior and subsequent segment with subspecialty in diabietly and hypertensive retinoplasting and laser surgery, Inden 1994Entrement of ophthalmolgy and training in eye images and refractive diseases. Inden 1993Doctor in Medicine, Universidad Pedro Henríquez Ureñasto. DGO. Rep. Dom.","National Council of Bioètica, Santo Domingo, Rep. Dominican National Prevention of AIDS, Santo Domingo. Rep. DominicanCompanic dience of OphthalmologySociation Dominicanos Pan American OphthalmologyAmerican OphthalmologiesCoupling DiabeticsCreaty Diabetics Pan American Surgeons Ophthalmologists Plus Surgery of Refractive Surgery and Falls",,,https://hospiten.com/Portals/0/Images/Professionals/eli.jpg?ver=GSpozKu60zVP3WSXV_SE1g%3d%3d,,
+36,,Encarnación Indhira,Sonography,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/encarnacion-indhira,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+37,,Encarnación Matthew Ricardo.,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/encarnacion-mateo-ricardo,,,,,"Training in AndrologíaFundation Puigvert 2001 Formation in Pathology LitiaSicaEnsit Society and Hospital of BellVitgeMeckShop in Endo-Urology In the health and university city of Bellvitgeespecialist in Urology for 5 years in the Sanitary City of the Vall d'Hebron, University Hospital attached to the University Autonomous of Barcelona (Spain) 1996-2001Doctor in STO autonomous university medicine. DGO. Title approved in Spain as a Bachelor of Medicine and Surgery",Spanish Association of Urología Catalan Catalan UrologyCatalan Ciencies Medicales,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+38,,Espinosa Juan Manuel.,Pediatric Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/espinosa-juan-manuel,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+39,,Estévez Hector,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/estevez-hector,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+40,,Star Portorreal Evelyn Altagracia,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/estrella-portorreal-evelyn-altagracia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/eve.jpg?ver=D5rEbH5zUf2NKi7S3XZUqw%3d%3d,,
+41,,Feliz Camilo Alexandra.,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/feliz-camilo-alexandra,,,,,Otolaryngologist Graduated from the Savior Hospital B. Gautier Idsspasantía de Postgraduate. Salvador B. Gautier Hospital. IDSS 1997-2001DO Magna Cum Laude Medicine. Graduate of the Technological Institute of Santo Domingo (Intec),Medical Association DominicanAaussociation Medical IdssScience Dominican of Otorhinolaryngology (Secretary of Minutes of the current Directive) Dominican Society of Larightful Patients,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+42,,Feliz Corproán Rosmery,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/feliz-corporan-rosmery,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/felix.jpg?ver=x8EhR8H_NO4VgBN7fkEBOw%3d%3d,,
+43,,Fernández María Cristina.,General and Gastrointestinal Tract Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/fernandez-maria-cristina,,,,,"Epidemiology Course for Proctologists 2010 Assisted Colon by Laparoscopy, Cedimat 2007 Prolapsada Hemorrhoids, CEDIMAT 2007 Surrounding Hospital Salvador Cook Country 2000-2004 Colo-Straight Cook Country Chicago University, Illinois 2005Colo-rectal Hospital Salvador BAUTIER 2004-2006PASANTIA Sub-center Juan Barón, Rep. Dominican 1998-99Doctor in medicine. Autonomous University of Santo Domingo. Dominican Republic 1991-1997",Dominican Medical College,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+44,,Fernández Marlin.,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/fernandez-marlin,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+45,,Figuereo Paredes Luis Roberto,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/figuereo-paredes-luis-roberto,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/luis-figuereo.jpg?ver=3lfA8JMkzpGVh3xNowaitg%3d%3d,,
+46,,Gerdo Igrid,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gerdo-ingrid,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+47,,Gil Héctor Renie,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gil-hector-rene,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+48,,Gladys Polanco.,"Plastic, Reconstructive and Esthetic Surgery",,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gladys-polanco,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+49,,Gómez Arévalo Yamyle.,Hematology and Hemotherapy,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gomez-arevalo-yamyle,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+50,,Gómez Gaton Federico Antonio,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gomez-gaton-federico-antonio,,,,,"Post degree in Ophthalmology, National Institute of Diabetes Endocrinology and Nutrition, Inden. (March 1992- April 1995) Doctor of Medicine, Universidad Iberoamericana, Unibe. (1988) BASIC ENGLISH COURSE Dominican-American Cultural Institute, (1982-1984) Inter University Meeting of Medical Students, Santo Domingo, Dn (April 1985) Third Medical Symposium on Updated Topics of Medicine, Santo Domingo, Dn (1988) Basic Trauma Life Support Course, Saint DGO. DN (1990) Advanced English, Unibe, (1992) First Course of Neuro-Ophthalmology, (June 1992) First Acromax Symposium, Advances in Glaucoma, (August 1992) Course of ophthalmological emergencies (September 1992) Fourth Update course in Ophthalmology , UNIBE, Stravismo Nistagmos, (1993) Lecturer at the annual meeting of the Dominican Society of Ophthalmology, (May 1993) First Symposium, Acromax, Advances in Falls, (February 1995) Sixth Heart Update In Ophthalmology, Unibe, (February 1995) Annual Meeting of the Dominican Society of Ophthalmology, (1995) English Advanced ELS Language Center, Boston Massachusetts, (August 1995) 65 VO Meeting of The New England Ophthalmological Society, Boston Massachusetts, (October 1995) Annual Meeting Dominican Society of Ophthalmology , (1996) Seventh course Update in Ophthalmology, Unibe, (February 1996)","Dominican Medical College (Active Member) Dominican Society of Ophthalmology (Active Member) Dominican Society of Diabetes Latin American Association of Diabetes, ALAD",,,https://hospiten.com/Portals/0/Images/Professionals/fede.jpg?ver=MocydGlE_ZiuMdKi0oHuRQ%3d%3d,,
+51,,Gómez Infante Luis J.,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/gomez-infante-luis-j,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+52,,War frames,Gastroenterology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/guerra-marcos,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/dr._guerra.jpg?ver=UmSdnK8WQbz0iIBp9OYUtg%3d%3d,,
+53,,Guerrero Miguel.,Cardiovascular and Thoracic Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/guerrero-miguel,,,,,"· 1972-1981: -Doken in Medicine Autonomous University of Santo Domingo (UASD) · 1980-1981: -Thisses of grade? Lung cancer? Analytical study Hospital Dr. Salvador B. Gautier · 1984: -Educational Center. New York. E. U. A.-Educational Commission for Foreing Medical Graduates (ECFMG). Approved in July 1985. 368-310-9 · 1986-1990: - Residence of General Surgery and Head of Residents, elected by the Faculty of Teachers of the Hospital Luis E. Aybar. · 1990-1992: -Sub-Specialty Oncological Surgery . Institute of Oncology Dr. Heriberto Pieter, Santo Domingo, Rep. Dom. · 1994-1997: -Sub-specialty Cardiovascular and Toráxic Surgery.Hospital San Joaquin, Pulmonary Clinica; Professor Edgar San Juan. -Centro of infantile cardiac surgery. Professor Glancio Furlaneto; Sao Paulo, Brazil. · January 23, 2000: - Program congenital surgery; Ohio University · January 28, 2000: -Shemodynamic 2000; United hearts · February 18, 2000: - Cardiology; Illinois Medical Center. · September 22, 2000: - Peripheral Vascular Disease. · September 30, 2000: -Factors Cardiovascular Risk · December 2000: -Who José José Joubert. Society Pneumology and Torax Surgery. · February 2001: -3er. Hemodynamic course, United Hearts. · March 2001: -Avance cardiovascular medicine; Cedars Hospital, Big Beach. · May 2001: -1er. Meeting graduates oncology Institute; Heriberto Pieter Hospital. · January 2002: -4th. Course Interventionism, United Hearts. · February 2002: -1er. Congress cardiovascular surgery; Santiago. · July 6, 2002: -Colloza 1st. Endovascular Prostheses Aneurysm Aorta Abdominal, D. Pérez B. · February 2003: -5th. Hemodynamic course; United hearts · May 2003: -Visita to cardiovascular unit, Catholic Medical Center; New Hampshire · September 2003: -Operative congenital cardiovascular surgery heart; Jackson Memorial, United Hearts. · July 2004: - International Congress Surgery",Medical School Dominican Dominican Stolenics of Surgeons Dominican Society of Cardiology.,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+54,,Warrior Heredia Hector,Psychiatry,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/guerrero-heredia-hector,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+55,,Henríquez Rosa.,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/henriquez-rosa,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/rosa.jpg?ver=Z_wGc-9z6oFKb5Te4qwvmA%3d%3d,,
+56,,Henríquez Lizardo Candida,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/henriquez-lizardo-candida,,,,,"Postgraduate Postgraduate Hospital Salvador B. Gautieridss 2001-2003 CardioVascular System of Cardiology Institute Ignacio Chávezméxico, D.F. 2000-2001CardiRegresada Del Salvador Hospital B. Gautieridss 1997-2000 Interegressing of the Hospital Salvador B. Gautieridss 1995-1997PasanthiaDan Francisco de Macorís 1994-1995Doctor in Medicine of the Catholic University Nordestona",Dominican Society of CardiologySociety of Indeques and Schools of the Cardiology Institute Ignacio ChávezSociety of Cardiology Graduates of the Dominican Institute of Social InsuranceViceFoodPresident of the Dominican Society of Critic Medicine and Care Intensive Dominican Medical Stolelement,,,https://hospiten.com/Portals/0/Images/Professionals/candy.jpg?ver=Nyc8nUflYEnrT0iIsVjxbQ%3d%3d,,
+57,,Hilario Ellen.,Nephrology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/hilario-ellen,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+58,,Infante Rodríguez Josè.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/infante-rodriguez-jose,,,,,"2007 Theoretical Course History Hysteroscopy Level I 2006 Theoretical Course Practical Laparoscopic Surgery in Gynecology 1996 Colposcopy, Crio Surgery and Diatermal ASA 1996.uce. Medical specialist in gynecology and obstetrics 1992 UASD. Doctor in medicine",Member Society Dominican Obstetrics and Gynecology Directive Member Dominican Society of Pathology of the Lower Genital Tract and Colposcopy (Treasurer),,,https://hospiten.com/Portals/0/Images/Professionals/infan.jpg?ver=CWtruYVix_wmf98xw6jm7g%3d%3d,,
+59,,Javier Alvarado Austria.,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/javier-alvarado-austria,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+60,,Jimènez S. Guillermo E.,Neurology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/jimenez-s-guillermo-e,,,,,"1990 - 1995 Postgraduate in Neurology Saxony Hospital for Neurology and Psychiatry Arnsdorf / Bei Dresden, Germany. Medicine Academy of the Technological University of Dresden, Germany 1980- 1987 Doctor of Medicine Autonomous University of Santo Domingo (UASD) 2007 Training at Doppler Transcranial Hospital Brothers Amejeiras, Havana, Cuba.",2017-current president of the Dominican Association Graduates of Germany (ADEA) 2013 President Dominican Society of Neurology and Neurosurgery (SDNN),,,https://hospiten.com/Portals/0/Images/Professionals/guillermo.jpg?ver=yUDd3BihV4LzT_qARNGmDw%3d%3d,,
+61,,Jiménez Sánchez Julio César,Cardiovascular and Thoracic Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/jimenez-sanchez-julio-cesar,,,,,Dr. In Medicine Autonomous University of Santo Domingo (2005) General Surgery Central Hospital F.F.A.A. (2010) Tórax Surgery Military Hospital Carlos Arvelo. Caracas Venezuela (2012),Dominican society of pneumology and thorax surgery. (Member of Directive 2017-2019). European Society of Thoracic Surgeons (ETS). Venezuelan society of pneumology and thorax surgery (Sovetorax). Dominica Medical College (cmd). Dominican Surgeon School. Member of the Trauma Chapter and Thoracic Surgery of the Dominican Surgeons School. Member of the Pan American Trauma Society. Member of the Latin American Torax Society. (Alat),,,https://hospiten.com/Portals/0/Images/Professionals/jul.jpg?ver=gNbCPaWCo04ZOvUj5RV_vQ%3d%3d,,
+62,,López Norka.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/lopez-norka,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+63,,López María.,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/lopez-maria,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/maria.jpg?ver=o__0PY6sw3U7ncKRXbo7Iw%3d%3d,,
+64,,López Ubiea Ana Leticia,Pediatric Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/lopez-ubiera-ana-leticia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/ana.jpg?ver=t3GSzzJ83kk_xdB5fikAIw%3d%3d,,
+65,,Martínez Carlos.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/martinez-carlos,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+66,,Martínez Carlos.,Internal Medicine,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/martinez-carlos,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+67,,Martínez Josè Joaquín.,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/martinez-jose-joaquin,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+68,,Martínez Alonzo Belkys.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/martinez-alonzo-belkys,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/belkis.jpg?ver=ZA58P5T282HFqufyTRih1w%3d%3d,,
+69,,Matthew Mark,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/mateo-marcos,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/marcos.jpg?ver=UtdSgHBLgXYIbs1tLldWdA%3d%3d,,
+70,,Matos Park Carolina.,Neurology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/matos-pumarol-carolina,,,,,"Specialty Hospital 21st Century and Children's Hospital Dr. Federico Gomesméxico, D. f.especially in NeurologyHospital Salvador Gauier (IDSS) DRA. in MedicineAniversidad Iberoamericana (Unibe) 1990",Dominican Society of Neurology,,,https://hospiten.com/Portals/0/Images/Professionals/matos.jpg?ver=C7zvxyRzQGfPHSeSts1rhA%3d%3d,,
+71,,Mejía Miguelina.,Dermatology and Venereology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/mejia-miguelina,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+72,,Melse Thomas,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/melgen-thomas,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/thomas.jpg?ver=ZEMcQCgj9_rrm5qRYLfO-Q%3d%3d,,
+73,,Miniño Luis.,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/minino-luis,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+74,,Morales Rivera Les Karen,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/morales-rivera-lies-karen,,,,,"Postgraduateness by male factor, National Institute of Perinatology, Mexico 1999Sterility by Female Factor, National Institute of Perinatology, Mexico 1999Specialty ErectionCology and Obstetrics, Hospital Ramón de Lara, FAD 1996 -199995Do-Ramón de Lara, FAD 1994 -1995Doctor in Medicine of the Central University from the east",,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+75,,Moya Mena Krismely.,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/moya-mena-krismely,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+76,,Núñez Díaz Carlos,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/nunez-diaz-carlos,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+77,,Páez Campoy David Felix,Pediatric Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/paez-campoy-david-felix,,,,,"Doctor of Medicine, School of Medicine of the University of Havana, Cuba.especialist of 1st and 2nd grade in Pediatric Surgery WILLIAM SOLER Hospital. Havana, Cuba.Goods and Postgraduate: Neonatal Surgery, WILLIAM SOLER HOSPITAL, HABANA, SALIVALLY GLANDLESSDIAGNOSTIC AND TREATMENT OF HEPATITIS B IN CHILDREN AND ADULTS.TALLER OF HIPERTENSION, INSTITUTE OF NEFROLOGY, HABANA, CUBA.AVANTS IN THE Treatment of the peptic ulcer. Laparoscopic surgery",,,,https://hospiten.com/Portals/0/Images/Professionals/paez.png?ver=nETPj3KL4WIlsYP0Z_ZqXQ%3d%3d,,
+78,,Papaterra José,Neurosurgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/papaterra-jose,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+79,,Pappaterra stephanie,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pappaterra-stephanie,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/stephany.jpg?ver=1EShXckgajZFeOS_qmcK9Q%3d%3d,,
+80,,Peña Wanda.,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pena-wanda,,,,,"Graduated from the School of Medicine of the CiBao University of Cibao Graduate of the School of Cardiology of the Savior Hospital B. Gautier Training Echocardiography at Hospital Ignacio Chávez. Mexico at Echocardiography Stress in San Carlos Hospital in Madrid. ESPA ESPAULTUNE EARROMATE CORONARY CLEVELAND CLINIC, OHIO",Member of the Dominican Society of CardiologyFellow of the American College of Cardiology. (FACC) Member of the American Heart AssociationMember of the Association of Cardiology Accommodates of IDSSMEEBRO,,,https://hospiten.com/Portals/0/Images/Professionals/w.jpg?ver=fdGfb2UoHOQwO_A9RJt4IA%3d%3d,,
+81,,Cepin Wladimir.,Neurosurgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pepin-wladimir,,,,,Doctor in Autonomous Medicine of Santo Domingo1975-1983PsychologyUniversityAniversity of Saint Saint Domingo1983-1986Eurgery Healthcare La PazMadrid Spain 1987-1992,Dominican Society of Neurology and Neurosurgery,,,https://hospiten.com/Portals/0/Images/Professionals/pepin.jpg?ver=fxziyjg6nN03BvAltZAPFA%3d%3d,,
+82,,Peralta Ortega Erick,Pneumology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/peralta-ortega-erick,,,,,"• Doctor of Medicine: Autonomous University of Santo Domingo (UASD) (1973-1982) • Specialist in Pneumology: Hospital de la Sant Creu I Sant Pau, Barcelona, ​​Spain (1984-1987) • Sub-specialty in BronchiBrospish: Hospital de la Sant Creu I Sant Pau, Barcelona, ​​Spain (February 1986-February 1987) • Post-degree in Modern Health Management: Autonomous University of Santo Domingo (UASD) (2000-2001) (Magna Cum Laude)",,,,https://hospiten.com/Portals/0/Images/Professionals/er.jpg?ver=ig_CUk0NIxKBhcOiQE_qTw%3d%3d,,
+83,,Pèrez Baquero Ramón Alberto,Cardiovascular and Thoracic Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/perez-baquero-ramon-alberto,,,,,"Master's Degree in Medicine, General Surgery Sector Federal Vascular Surgery University of Rio de Janeiro, Brazil1998-2000Sidencia in General Hospital Surgery of the Armed Forces, STO. DGO.Republic Dominican 1991-1994Residencia in General SurgeryHospital Naval Marcilio Díazr.j. Brazil 1994-1996Postgrad in Vascular Surgery Hospitality Clementino Fraga Filhora of Janeiro, Brazil 1996-1998Doctor in Technological Medicine of Santiago (UTESA) STO. DGO. Dominican Republic 1990","Brazilian Society of Angiology and Vascular Surgery of Janeiro, Brazil. Since 1996.",,,https://hospiten.com/Portals/0/Images/Professionals/perez-v.jpg?ver=BJyVK5tRG_DfxjXfVYfr6g%3d%3d,,
+84,,Peicchi maximum Eusebio,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pericchi-eusebio-maximo,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+85,,Little Alfonso,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/petit-alfonso,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/petit.jpg?ver=8DT_kv7UYOWkb9Df_KEgRw%3d%3d,,
+86,,Pimentel Eric,Gastroenterology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pimentel-eric,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/eric.jpg?ver=ONH4TvV_rDaWmHozseTFMw%3d%3d,,
+87,,Pol Pamela,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/pol-pamela,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/pam.jpg?ver=hgV56tDlAQDpW3sAMUTMLA%3d%3d,,
+88,,Polanco Yaneris Cesarina,Pediatrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/polanco-yaneris-cesarina,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+89,,Ramos Ginna,"Plastic, Reconstructive and Esthetic Surgery",,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/ramos-ginna,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+90,,Given Castellanos Carlos José,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/regalado-castellanos-carlos-jose,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+91,,Reyes Cruz M.,Pneumology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/reyes-cruz-m,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/cruz.jpg?ver=cus9iN3Jj1HbY7q1EQYRSg%3d%3d,,
+92,,Reyes Decena María Zenia,Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/reyes-decena-maria-zenia,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/reyes.jpg?ver=_R39SpKnxyYTeN74tBp1yw%3d%3d,,
+93,,Reynoso alpha,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/reynoso-alfa,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/alfa.jpg?ver=zds1-9B2R9Us8rR1xBrWjg%3d%3d,,
+94,,RoA wascar,Cardiovascular and Thoracic Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/roa-wascar,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/wascar.jpg?ver=F0jKI8zIHRK9F0clkCYqoQ%3d%3d,,
+95,,Roa Sánchez Pedro A.,Neurology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/roa-sanchez-pedro-a,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+96,,Rodríguez Andrès Josè,Anesthesia and Recovery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/rodriguez-andres-jose,,,,,Residence-training in anesthesiology and resuscitation Hospital Salvador B. Gauiesto. DGO. REP. DOMACANA1987-1990Doctor in National Medicine Pedro Henríquez Ureña Unophusto. DGO. Rep. Dominicana1975-1984.,,,,https://hospiten.com/Portals/0/Images/Professionals/anes.png?ver=fALCkspeAy_RxAGm70p5Cw%3d%3d,,
+97,,Rodríguez Bautista Edral Joel,Internal Medicine,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/rodriguez-bautista-edral-joel,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/edr.jpg?ver=EIhiYe-SUsWpwtYXLkW8CA%3d%3d,,
+98,,Rosario Francis.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/rosario-francis,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+99,,Salcedo Ariel Andrés.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/salcedo-ariel-andres,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+100,,Salcedo Siri Rafael Antonio,Oral and Maxillofacial Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/salcedo-siri-rafael-antonio,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+101,,Santana Katiuska,Otorhynolaryngology (ENT),,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/santana-katiuska,,,,,Graduated Cum Laude de Dra. In Medicine of the Autonomous University of Santo Domingo in 2001Postgrad in Otolaryngology and Head and Neck Surgery at Savior Hospital B. Gautier Sualado by the UASD 2004-2009,,,,https://hospiten.com/Portals/0/Images/Professionals/dra-santana-katiuska.jpg?ver=5uie1SJ1DmYa-9CIV9FxFA%3d%3d,,
+102,,Serra Víctor Adolfo,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/serra-victor-adolfo,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+103,,Soriano David.,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/soriano-david,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+104,,Sotney Sotney.,Gynecology and Obstetrics,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/soto-sidney,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+105,,Soto Alejandro.,General and Gastrointestinal Tract Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/soto-alejandro,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+106,,Stanley R. Juan R.,"Plastic, Reconstructive and Esthetic Surgery",,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/stanley-r-juan-r,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+107,,Suazo de la Cruz Luis Eduardo,Neurosurgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/suazo-de-la-cruz-luis-eduardo,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+108,,Sucar Robert Joel,Neurosurgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/sucar-robert-joel,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+109,,Tejada Josefina.,General and Gastrointestinal Tract Surgery,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/tejada-josefina,,,,,"1995- 1999 Postgraduate in General Surgery Centro Medico Central University of East (UCE) Santo Domingo, Dominican Republic. 1993- 1994 Specialty in General Surgery Hospital of the City of Dresden-Neestadt, Germany 1984- 1991 Doctor of Medicine General Autonomous University of Santo Domingo (UASD)",,,,https://hospiten.com/Portals/0/Images/Professionals/teja.jpg?ver=oH0wYcUltnT8tDLRaEF1Nw%3d%3d,,
+110,,Tejada Pérez Edwin.,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/tejada-perez-edwin,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+111,,Thomas Pellerano Claudia.,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/thomas-pellerano-claudia,,,,,"Medical Surgeon Ophthalmologist Sub Specialty Master of Pediatric and Strabismograded Ophthalmology with High Honors and Graduate of the Program endorsed by the Unophu de Ophthalmology, of the Ophtalmological Hospital Dr. Elías Santana and the Intec with rotation in Ophtalmopediatría at the Bascom Palmer Eye Institute of Miami , USA, certifications endorsed by the Mescyt.","Member of the Dominican Society of Ophthalmology for 18 years ago active of the BIRT, PAAO, Aapos and CodesopDelegate by the Dominican Republic against the Latin American Strabismo Council - Clade",,,https://hospiten.com/Portals/0/Images/Professionals/claudia.jpg?ver=rXC8aiomaXmjDUiiF9xMgA%3d%3d,,
+112,,Toribio Acosta Janet.,Pediatric Cardiology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/toribio-acosta-janet,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+113,,Urbáz Jaqueline,Endocrinology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/urbaez-jaqueline,,,,,Medical General Universidad Ibero-American October 1992 Internal Medicine - Endocrinology Fundación Jimenez Diaz España Internist Residence Medicine Hospital Father Billini 1994-1996Medocrinology Nutritionist Hospital Salvador B. Gautier 1996-1998,Member of the American Society of EndocrinologyMember of the Dominican Society of EndocrinologyMire of Diabetes Club of Santo Domingo,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+114,,Ureña Vargas Amilcar.,Urology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/urena-vargas-amilcar,,,,,Graduate of Medicine at the Autonomous University of Santo DomingoESpecialty in Emergency Medicine in Puerto Rico,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+115,,Vásquez Pedro Josè.,Clinical Psychology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/vasquez-pedro-jose,,,,,Lic. In Clinical Psychology 1994-2000Specialty in Psychology of Obesity and Eating Disorders 2000MaStry in Family and Couple Therapy 2000-2004Specialty in Co-Occurring Disorders (Addictions) 2007-2008,President of the Dominican Association of Bariatric PsychologistsColegence of Dominican Psychologists,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+116,,Vásque Colón Ricardo A.,Internal Medicine,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/vasquez-colon-ricardo-a,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+117,,Ventura Brito Roelka,Psychiatry,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/ventura-brito-roelka,,,,,,,,,https://hospiten.com/Portals/0/Images/Professionals/roelka.jpg?ver=tpMNlQt5x3lb_4YYp7fhdg%3d%3d,,
+118,,Ventura Herrera Ricardo.,"Plastic, Reconstructive and Esthetic Surgery",,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/ventura-herrera-ricardo,,,,,,,,,https://hospiten.com/DesktopModules/Hospiten/Images/default-professional-image.png,,
+119,,WERR FARIS,Orthopedic Surgery and Trauma,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/werr-faris,,,,,"Primary and Secondary Education: -Franklin Delano Roosevelt School, Lima, Peru-School of American do Recife, Recife, Brazil-Carol Morgan School Dn Santo Domingo, Republic Dominican University Education: Technological Institute of Santo Domingo (Intec) DN Santo Domingo, Dominican Republic : Central Hospital of the Armed Forces and National Police, Residence of Traumatology and Orthopedics, DN Santo Domingo, Dominican Republic","Dominican Medical College (cmd) Dominican Society of Orthopedics and Traumatology (SDOT) Arthroscopy Chapter of the Dominican Society of Orthopedics and TraumatologicalAmerican Academy of Orthopaedic Surgeons International Affiliate (AAOS) Çinternational Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine (Isakos)",,,https://hospiten.com/Portals/0/Images/Professionals/mg-8917.jpg?ver=hal4-luaaRD5owI6jTZUHw%3d%3d,,
+120,,Yermenos Cristina.,Ophthalmology,,dr,Santo Domingo,False,Hospiten holy sunday,,,https://hospiten.com/en/our-professionals/yermenos-cristina,,,,,"- Bachelor: Santa Clara College 1973- PhD: Technological Institute of Santo Domingo 1978- Training-residence: Salvador Hospital B. Gautier1981 1984- Fellowship: Bascom Palmer Eye Institute, Salvador B. Gautier 1984-1985 Glaucoma",,,,https://hospiten.com/Portals/0/Images/Professionals/dra.jpg?ver=bCaDOBNA87HylYWQREzdhA%3d%3d,,

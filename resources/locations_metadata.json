@@ -1,0 +1,82 @@
+{
+  "mx": {
+    "Hospitals": [
+      "ABC Medical Center Mexico",
+      "Amerimed Hospital",
+      "Angeles Health International",
+      "Cancun General Hospital 'Jesus Kumate Rodriguez'",
+      "Centro Medico ABC",
+      "Centro Medico ABC Campus Santa Fe",
+      "Centro Medico ABC, External Office",
+      "Centro Médico ABC Campus Observatorio",
+      "Clinica Sobrino",
+      "Costamed Tulum",
+      "Grupo 24 horas Tulum",
+      "Hospital Americano",
+      "Hospital Amerimed",
+      "Hospital Angeles Acoxpa",
+      "Hospital Angeles Ciudad Juarez",
+      "Hospital Angeles Clinic London",
+      "Hospital Angeles Culiacan",
+      "Hospital Angeles El Carmen",
+      "Hospital Angeles León",
+      "Hospital Angeles Lindavista",
+      "Hospital Angeles Lomas",
+      "Hospital Angeles Metropolitano",
+      "Hospital Angeles Mexico",
+      "Hospital Angeles Mocel",
+      "Hospital Angeles Mocel - Neurología Pediátrica",
+      "Hospital Angeles Morelia",
+      "Hospital Angeles México",
+      "Hospital Angeles Pedregal",
+      "Hospital Angeles Potosi",
+      "Hospital Angeles Puebla",
+      "Hospital Angeles Querétaro",
+      "Hospital Angeles Roma",
+      "Hospital Angeles Santa Mónica",
+      "Hospital Angeles Tampico",
+      "Hospital Angeles Tijuana",
+      "Hospital Angeles Torreón",
+      "Hospital Angeles Valle Oriente",
+      "Hospital Angeles Villahermosa",
+      "Hospital Angeles Xalapa",
+      "Hospital Angeles del Pedregal",
+      "Hospital Español",
+      "Hospital Galenia",
+      "Hospital Playmed Cancun",
+      "Hospital Presbiteriano Casa De Esperanza Mexico",
+      "Hospital Quirúrgica del Sur",
+      "Hospital Tulum",
+      "Hospital Ángeles Clínica Londres",
+      "Hospital Ángeles Lindavista",
+      "Hospital Ángeles Metropolitano",
+      "Hospiten Cancun",
+      "London Clinic Hospital Angeles Mexico",
+      "Medica Sur",
+      "Starmedica Hospital Center",
+      "Victoria Medical Cancun"
+    ]
+  },
+  "cr": {
+    "Hospitals": [
+      "Hospital CIMA",
+      "Clinica Biblica",
+      "Clinica Catolica",
+      "Hospital Metropolitano",
+      "Hospital San Juan de Dios",
+      "Hospital Mexico Hospital",
+      "Hospital Dr. Rafael Calderon Guardia",
+      "Hospital Nacional de Ninos Carlos Saenz Herrera",
+      "Hospital La Catolica",
+      "Clinica Santa Rita",
+      "San Rafael Hospital"
+    ]
+  },
+  "dr": {
+    "Hospitals": [
+      "Hospiten Santo Domingo",
+      "Hospiten Bavaro",
+      "Clinica Union Medica Del Norte"
+    ]
+  }
+}

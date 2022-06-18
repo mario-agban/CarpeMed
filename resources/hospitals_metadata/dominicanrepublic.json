@@ -1,0 +1,42 @@
+{
+    "HospitenBavaro": {
+        "hospital_short_name": "bavaro",
+        "hospital_name": "Hospiten Bavaro",
+        "country": "dr",
+        "hoursOperation": "Monday-Saturday 08:00-20:00",
+        "city": "Punta Cana",
+        "tab_id": "48",
+        "module_id": "463",
+        "page_size": "1000",
+        "language": "es",
+        "center_list": "6"
+    },
+    "HospitenSantoDomingo": {
+        "hospital_short_name": "domingo",
+        "hospital_name": "Hospiten Santo Domingo",
+        "country": "dr",
+        "hoursOperation": "Monday-Saturday 08:00-20:00",
+        "city": "Santo Domingo",
+        "tab_id": "1151",
+        "module_id": "2407",
+        "page_size": "1000",
+        "language": "es",
+        "center_list": "4"
+    },
+    "ClinicaUnionMedicaDelNorte": {
+        "hospital_short_name": "medicadelnorte",
+        "hospital_name": "Clinica Union Medica Del Norte",
+        "country": "dr",
+        "city": "Santiago De Los Caballeros",
+        "hoursOperation": "Monday-Saturday 08:00-20:00",
+        "language": "es",
+        "xpaths": {
+            "name": "//div[contains(@class, 'em-content-title-inner')]//h2/text()",
+            "provider": "//div[contains(@class, 'em-content-subtitle-inner')]//div/text()",
+            "photoUrl": "//div[contains(@class, 'em-content-image-inner')]//div/img/@src",
+            "email": "//div[contains(@class, 'em-content-desc')]/text()[last()]",
+            "phoneNumber": "//div[contains(@class, 'em-content-desc')]//text()[2]"
+
+        }
+    }
+}

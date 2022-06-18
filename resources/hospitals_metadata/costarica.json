@@ -1,0 +1,66 @@
+{
+    "HospitalCima": {
+      "hospital_short_name": "cima",
+      "hospital_name": "Hospital CIMA",
+      "country": "cr",
+      "city": "San Jose",
+      "xpaths": {
+        "name": "//div[contains(@class, 'name')]/h1/text()",
+        "provider": "//div[contains(@class, 'specialty')]/text()",
+        "description": "//*[@itemprop='description']/text()",
+        "email": "//a[@itemprop='email']/@href",
+        "phoneNumber": "//a[@itemprop='telephone']/@href",
+        "photoUrl": "//div[contains(@class, 'left col')]/figure/img/@src",
+        "spokenLanguages": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Languages')]/following-sibling::div/p/text()",
+        "education": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Degrees')]/following-sibling::div//text()",
+        "additionalInformation": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Affiliations')]/following-sibling::div/ul/li/div/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Fellowships')]/following-sibling::div//text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Courses')]/following-sibling::div/ul/li/p[1]/text() | //div[contains(@class, 'eight columns')]/div/text() | //div[contains(@class, 'fifteen columns')]/div/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Licenses')]/following-sibling::div/ul/li/p/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Trainings')]/following-sibling::div/ul/li/p[2]/text()",
+        "otherActivities": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Publications')]/following-sibling::div/ul/li/div/text()"
+        }
+    },
+    "ClinicaCatolica": {
+      "hospital_short_name": "catolica",
+      "hospital_name": "Clinica Catolica",
+      "country": "cr",
+      "city": "Guadalupe",
+      "xpaths": {
+        "name": "//div[contains(@class, 'name')]/h1/text()",
+        "provider": "//div[contains(@class, 'specialty-wrapper')]/div/div/text()",
+        "description": "//*[@itemprop='description']/text()",
+        "email": "//a[@itemprop='email']/@href",
+        "phoneNumber": "//a[@itemprop='telephone']/@href",
+        "photoUrl": "//div[contains(@class, 'left col')]/figure/img/@src",
+        "spokenLanguages": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Languages')]/following-sibling::div/p/text()",
+        "education": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Degrees')]/following-sibling::div//text()",
+        "additionalInformation": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Affiliations')]/following-sibling::div/ul/li/div/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Fellowships')]/following-sibling::div//text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Courses')]/following-sibling::div/ul/li/p[1]/text() | //div[contains(@class, 'eight columns')]/div/text() | //div[contains(@class, 'fifteen columns')]/div/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Trainings')]/following-sibling::div/ul/li/p[2]/text() | //h5[contains(@class, 'sub-sect-title') and contains(text(), 'Licenses')]/following-sibling::div/ul/li/p/text()",
+        "otherActivities": "//h5[contains(@class, 'sub-sect-title') and contains(text(), 'Publications')]/following-sibling::div/ul/li/div/text()"
+      }
+
+    },
+    "ClinicaBiblica": {
+      "hospital_short_name": "biblica",
+      "hospital_name": "Clinica Biblica",
+      "country": "cr",
+      "city": "San Jose",
+      "xpaths": {
+        "name": "//div[contains(@class, 'item-page')]/h2/a/text()",
+        "provider": "//div[contains(@class, 'item-page')]/p//span/text()",
+        "education": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Academic Degrees')]/following-sibling::div/div/ul/li/text()",
+        "description": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Work Experience')]/following-sibling::div/div/p/text()",
+        "photoUrl": "//div[contains(@class, 'item-page')]/p/img/@src",
+        "additionalInformation": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Professional Affiliations')]/following-sibling::div/div/ul/li/text() | //button[contains(@data-toggle, 'collapse') and contains(text(), 'Special Procedures')]/following-sibling::div/div/p/text()",
+        "spokenLanguages": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Languages')]/following-sibling::div/div/p/text()",
+        "email": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Contact Information')]/following-sibling::div/div/p[3]/text()",
+        "phoneNumber": "//button[contains(@data-toggle, 'collapse') and contains(text(), 'Contact Information')]/following-sibling::div/div/p[2]/text()"
+      }
+
+    },
+    "HospitalMetropolitano": {
+      "hospital_short_name": "metropolitano",
+      "hospital_name": "Hospital Metropolitano",
+      "country": "cr",
+      "city": "Sane Jose",
+      "xpaths": {
+      }
+
+    }
+}
